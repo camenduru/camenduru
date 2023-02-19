@@ -4,6 +4,7 @@
 
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 <br />
 https://github.com/camenduru/stable-diffusion-webui-docker <br />
 https://github.com/camenduru/stable-diffusion-webui-huggingface <br />
 https://github.com/camenduru/stable-diffusion-webui-offline <br />
