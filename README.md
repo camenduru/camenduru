@@ -20,8 +20,8 @@ https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 https://github.com/camenduru/wav2lip-colab <br />
-https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
+https://github.com/camenduru/controlnet-colab <br />
 
 #### 🚦 WIP
 https://github.com/camenduru/ai-creator-archive <br />
