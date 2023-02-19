@@ -31,7 +31,7 @@ https://github.com/camenduru/tensor-rt-docker <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 👾 Study
-https://github.com/camenduru/HoudiniStudy
-https://github.com/camenduru/BlenderStudy
-https://github.com/camenduru/GrasshopperStudy
-https://github.com/camenduru/UEStudy
+https://github.com/camenduru/HoudiniStudy <br />
+https://github.com/camenduru/BlenderStudy <br />
+https://github.com/camenduru/GrasshopperStudy <br />
+https://github.com/camenduru/UEStudy <br />
