@@ -22,7 +22,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
-#### 🎢 Others
+#### 🚦 WIP
 https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/notebooks <br />
 https://github.com/camenduru/tensor-rt-docker <br />
