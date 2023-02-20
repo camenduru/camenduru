@@ -41,7 +41,7 @@ https://github.com/camenduru/seamless <br />
 #### 🧯 Old Projects 🧯
 
 #### 🥽 VR 
-Full Body Motion Capture With HTC Vive<br />
+Full Body Motion Capture With HTC Vive and Unity<br />
 https://www.youtube.com/watch?v=gE3E-AN7Qiw <br />
 
 #### 👾 Study
