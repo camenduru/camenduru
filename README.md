@@ -28,7 +28,6 @@ https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/notebooks <br />
 https://github.com/camenduru/tensor-rt-docker <br />
-https://github.com/camenduru/unreal-engine-puzzle-collection-cpp <br />
 
 #### 📚 Tutorials
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
