@@ -33,8 +33,8 @@ https://github.com/camenduru/tensor-rt-docker <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 🕹 Unreal Engine
-https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint
-https://www.unrealengine.com/marketplace/en-US/profile/camenduru
+https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
+https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
 
 #### 🎮 Unity
 https://github.com/camenduru/seamless <br />
@@ -42,7 +42,7 @@ https://github.com/camenduru/seamless <br />
 #### 🧯 Old Projects 🧯
 
 #### 🥽 VR 
-Full Body Motion Capture With HTC Vive and Unity<br />
+Full Body Motion Capture With HTC Vive and Unity <br />
 https://www.youtube.com/watch?v=gE3E-AN7Qiw <br />
 
 #### 👾 Study
