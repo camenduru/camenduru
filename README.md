@@ -33,6 +33,7 @@ https://github.com/camenduru/tensor-rt-docker <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 🕹 Unreal Engine
+https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint
 https://www.unrealengine.com/marketplace/en-US/profile/camenduru
 
 #### 🎮 Unity
