@@ -13,6 +13,9 @@ https://github.com/camenduru/stable-diffusion-webui-offline <br />
 https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
 https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 
+#### 🍥 Comfy UI
+https://github.com/camenduru/comfyui-colab <br />
+
 #### 🧨 Diffusers
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
