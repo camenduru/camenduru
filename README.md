@@ -6,10 +6,12 @@
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 https://github.com/camenduru/stable-diffusion-webui-docker <br />
 https://github.com/camenduru/stable-diffusion-webui-huggingface <br />
-https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-runpod <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-vultr <br />
 https://github.com/camenduru/stable-diffusion-webui-offline <br />
 https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
 https://github.com/camenduru/stable-diffusion-webui-scripts <br />
