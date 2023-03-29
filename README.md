@@ -27,6 +27,7 @@ https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
