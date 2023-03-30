@@ -22,13 +22,17 @@ https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 🆕 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/text2video-zero-colab <br />
+🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
+#### 🦙 LLM
+🆕 https://github.com/camenduru/gpt4all-colab <br />
+🆕 https://github.com/camenduru/alpaca-lora-colab <br />
+
 #### 🎈 ML Papers
-🆕 https://github.com/camenduru/text2video-zero-colab <br />
-🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
