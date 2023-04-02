@@ -4,7 +4,7 @@
 #### 🔥 Active Repos 🔥
 
 #### 🏆 Diffusion Awards
-https://github.com/camenduru/DiffusionAwards
+🆕 https://github.com/camenduru/DiffusionAwards
 
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
