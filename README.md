@@ -3,6 +3,9 @@
 
 #### 🔥 Active Repos 🔥
 
+#### 🏆 Diffusion Awards
+https://github.com/camenduru/DiffusionAwards
+
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
