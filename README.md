@@ -6,6 +6,10 @@
 #### 🏆 Diffusion Awards
 🆕 https://github.com/camenduru/DiffusionAwards
 
+#### 📽 Video Diffusion
+🆕 https://github.com/camenduru/text2video-zero-colab <br />
+🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
+
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
@@ -26,8 +30,6 @@ https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/kandinsky-colab <br />
-🆕 https://github.com/camenduru/text2video-zero-colab <br />
-🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
