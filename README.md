@@ -25,6 +25,7 @@ https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 🆕 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/kandinsky-colab <br />
 🆕 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
