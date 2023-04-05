@@ -15,7 +15,7 @@ https://github.com/camenduru/stable-diffusion-webui-huggingface <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-runpod <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-vultr <br />
-https://github.com/camenduru/stable-diffusion-webui-offline <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-portable <br />
 https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
 https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 🆕 https://github.com/camenduru/ai-creator-archive <br />
