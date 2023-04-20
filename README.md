@@ -37,6 +37,7 @@ https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/MiniGPT-4-colab 👀
 🆕 https://github.com/camenduru/text-generation-webui-colab <br />
 🆕 https://github.com/camenduru/gpt4all-colab <br />
 🆕 https://github.com/camenduru/alpaca-lora-colab <br />
