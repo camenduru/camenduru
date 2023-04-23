@@ -43,6 +43,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
