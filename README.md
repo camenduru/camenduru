@@ -12,6 +12,7 @@
 
 #### 🧿 Web UI
 🆕 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
+🆕 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
