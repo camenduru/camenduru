@@ -1,5 +1,8 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
+🥼 Become my Patron on Patreon https://patreon.com/camenduru <br />
+☕ Buy Me a Coffee on Ko-fi https://ko-fi.com/camenduru <br />
+
 
 #### 🔥 Active Repos 🔥
 
