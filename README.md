@@ -4,7 +4,10 @@
 #### 🔥 Active Repos 🔥
 
 #### 🏆 Diffusion Awards
-🆕 https://github.com/camenduru/DiffusionAwards
+🆕 https://github.com/camenduru/DiffusionAwards <br />
+
+#### 📐 3D Diffusion
+🆕 https://github.com/camenduru/shap-e-colab <br />
 
 #### 📽 Video Diffusion
 🆕 https://github.com/camenduru/text2video-zero-colab <br />
