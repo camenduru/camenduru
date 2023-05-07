@@ -9,9 +9,18 @@
 #### 📐 3D Diffusion
 🆕 https://github.com/camenduru/shap-e-colab <br />
 
-#### 📽 Video Diffusion
+#### 📽 Video Diffusion & ML Papers
 🆕 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
+https://github.com/camenduru/one-shot-talking-face-colab <br />
+https://github.com/camenduru/wav2lip-colab <br />
+https://github.com/camenduru/pix2pix-video-colab <br />
+
+#### 🎙 Audio Diffusion & ML Papers
+🆕 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
+🆕 https://github.com/camenduru/whisper-jax-colab <br />
+🆕 https://github.com/camenduru/bark-colab 🐕 <br />
+https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
 🆕 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
@@ -50,14 +59,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
-🆕 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
-🆕 https://github.com/camenduru/whisper-jax-colab <br />
-🆕 https://github.com/camenduru/bark-colab 🐕 <br />
-https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
-https://github.com/camenduru/audioldm-colab <br />
-https://github.com/camenduru/wav2lip-colab <br />
-https://github.com/camenduru/pix2pix-video-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
