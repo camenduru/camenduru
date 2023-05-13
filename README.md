@@ -51,6 +51,9 @@ https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
+#### 🧨 ppDiffusers
+https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010 <br />
+
 #### 🦙 LLM
 🆕 https://github.com/camenduru/nvidia-llm-colab <br />
 🆕 https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
