@@ -52,7 +52,7 @@ https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
-https://aistudio.baidu.com/aistudio/personalcenter/thirdview/2462010 <br />
+🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
 🆕 https://github.com/camenduru/nvidia-llm-colab <br />
