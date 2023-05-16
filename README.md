@@ -53,6 +53,7 @@ https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
+🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio-colab
 🆕 https://github.com/camenduru/paddle-converter-colab <br />
 🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
