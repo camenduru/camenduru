@@ -43,6 +43,7 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/StableStudio-colab <br />
 🆕 https://github.com/camenduru/Radiata-colab <br />
 https://github.com/camenduru/DeepFloyd-IF-colab <br />
 https://github.com/camenduru/ControlNet-v1-1-nightly-colab <br />
