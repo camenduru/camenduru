@@ -25,7 +25,7 @@ https://github.com/camenduru/audioldm-colab <br />
 #### 🧿 Web UI
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
-https://github.com/camenduru/stable-diffusion-webui-colab <br />
+🔥 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 https://github.com/camenduru/stable-diffusion-webui-docker <br />
@@ -61,7 +61,7 @@ https://github.com/camenduru/converter-colab <br />
 #### 🦙 LLM
 https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
-https://github.com/camenduru/text-generation-webui-colab <br />
+🔥 https://github.com/camenduru/text-generation-webui-colab <br />
 https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
