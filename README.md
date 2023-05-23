@@ -23,6 +23,7 @@ https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
+🆕 https://github.com/camenduru/stable-diffusion-webui-lambda <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
@@ -43,6 +44,7 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/DeepFloyd-IF-lambda
 🆕 https://github.com/camenduru/StableStudio-colab <br />
 🆕 https://github.com/camenduru/Radiata-colab <br />
 https://github.com/camenduru/DeepFloyd-IF-colab <br />
@@ -51,6 +53,7 @@ https://github.com/camenduru/grounded-segment-anything-colab <br />
 https://github.com/camenduru/kandinsky-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
+🆕 https://github.com/camenduru/converter-lambda <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
