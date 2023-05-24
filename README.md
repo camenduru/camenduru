@@ -69,6 +69,7 @@ https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/DragGAN-colab <br />
 🆕 https://github.com/camenduru/UserControllableLT-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
