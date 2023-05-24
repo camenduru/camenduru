@@ -62,6 +62,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/pygmalion-7b-text-generation-webui-lambda <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
 🆕 https://github.com/camenduru/text-generation-webui-colab <br />
