@@ -17,6 +17,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio Diffusion & ML Papers
+🆕 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
 https://github.com/camenduru/whisper-jax-colab <br />
 https://github.com/camenduru/bark-colab 🐕 <br />
@@ -44,7 +45,8 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
-🆕 https://github.com/camenduru/DeepFloyd-IF-lambda <br />
+🆕 https://github.com/camenduru/Radiata-lambda <br />
+🆕 https://github.com/camenduru/DeepFloyd-IF-lambda  <br />
 🆕 https://github.com/camenduru/StableStudio-colab <br />
 🆕 https://github.com/camenduru/Radiata-colab <br />
 https://github.com/camenduru/DeepFloyd-IF-colab <br />
@@ -62,6 +64,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/guanaco-lambda <br />
 🆕 https://github.com/camenduru/pygmalion-7b-text-generation-webui-lambda <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
