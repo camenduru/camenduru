@@ -64,6 +64,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
 🆕 https://github.com/camenduru/MiniGPT-4-lambda <br />
 🆕 https://github.com/camenduru/guanaco-colab <br />
 🆕 https://github.com/camenduru/guanaco-lambda <br />
