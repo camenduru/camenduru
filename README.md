@@ -24,6 +24,7 @@ https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
+🆕 https://github.com/camenduru/stable-diffusion-webui-api-lambda <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-lambda <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
