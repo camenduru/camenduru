@@ -7,6 +7,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 📐 3D Diffusion
+🆕 https://github.com/camenduru/4D-Humans-colab <br />
 🆕 https://github.com/camenduru/shap-e-colab <br />
 
 #### 📽 Video Diffusion & ML Papers
@@ -17,6 +18,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio Diffusion & ML Papers
+🆕 https://github.com/camenduru/whisper-jax-lambda <br />
 🆕 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
 https://github.com/camenduru/whisper-jax-colab <br />
