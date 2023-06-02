@@ -48,6 +48,7 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/TextDiffuser-colab <br />
 🆕 https://github.com/camenduru/Radiata-lambda <br />
 🆕 https://github.com/camenduru/DeepFloyd-IF-lambda  <br />
 🆕 https://github.com/camenduru/StableStudio-colab <br />
