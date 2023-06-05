@@ -90,6 +90,7 @@ https://github.com/camenduru/notebooks <br />
 https://github.com/camenduru/tensor-rt-docker <br />
 
 #### 📚 Tutorials
+🆕 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 🕹 Unreal Engine
