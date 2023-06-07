@@ -12,7 +12,7 @@ https://github.com/camenduru/DiffusionAwards <br />
 
 #### 📽 Video Diffusion & ML Papers
 https://github.com/camenduru/text2video-zero-colab <br />
-https://github.com/camenduru/text-to-video-synthesis-colab <br />
+🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
@@ -68,6 +68,7 @@ https://github.com/camenduru/converter-colab <br />
 🆕 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/falcon-40b-instruct-lambda <br />
 🆕 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
 🆕 https://github.com/camenduru/MiniGPT-4-lambda <br />
 🆕 https://github.com/camenduru/guanaco-colab <br />
