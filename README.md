@@ -19,6 +19,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio Diffusion & ML Papers
+🆕 https://github.com/camenduru/MusicGen-colab 🎶 <br />
 🆕 https://github.com/camenduru/whisper-jax-lambda <br />
 🆕 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
