@@ -12,6 +12,7 @@ https://github.com/camenduru/DiffusionAwards <br />
 🆕 https://github.com/camenduru/shap-e-colab <br />
 
 #### 📽 Video Diffusion & ML Papers
+🆕 https://github.com/camenduru/Rerender-colab <br />
 🆕 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
