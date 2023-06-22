@@ -7,6 +7,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 📐 3D Diffusion
+🆕 https://github.com/camenduru/vid2avatar-colab <br />
 🆕 https://github.com/camenduru/bite-colab <br />
 🆕 https://github.com/camenduru/ECON-colab <br />
 🆕 https://github.com/camenduru/4D-Humans-colab <br />
