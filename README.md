@@ -6,7 +6,7 @@
 #### 🏆 Diffusion Awards
 https://github.com/camenduru/DiffusionAwards <br />
 
-#### 📐 3D ML Papers
+#### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/PanoHead-colab <br />
 🆕 https://github.com/camenduru/vid2avatar-colab <br />
 🆕 https://github.com/camenduru/bite-colab <br />
