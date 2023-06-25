@@ -6,14 +6,15 @@
 #### 🏆 Diffusion Awards
 https://github.com/camenduru/DiffusionAwards <br />
 
-#### 📐 3D Diffusion
+#### 📐 3D
+🆕 https://github.com/camenduru/PanoHead-colab <br />
 🆕 https://github.com/camenduru/vid2avatar-colab <br />
 🆕 https://github.com/camenduru/bite-colab <br />
 🆕 https://github.com/camenduru/ECON-colab <br />
 🆕 https://github.com/camenduru/4D-Humans-colab <br />
 🆕 https://github.com/camenduru/shap-e-colab <br />
 
-#### 📽 Video Diffusion & ML Papers
+#### 📽 Video & ML Papers
 🆕 https://github.com/camenduru/Rerender-colab <br />
 🆕 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
@@ -22,7 +23,7 @@ https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
-#### 🎙 Audio Diffusion & ML Papers
+#### 🎙 Audio & ML Papers
 🆕 https://github.com/camenduru/tortoise-tts-colab <br />
 🆕 https://github.com/camenduru/MusicGen-lambda 🎶 <br />
 🆕 https://github.com/camenduru/MusicGen-colab 🎶 <br />
