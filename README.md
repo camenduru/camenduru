@@ -58,6 +58,7 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/control-a-video-colab <br />
 🆕 https://github.com/camenduru/Matting-Anything-colab <br />
 🆕 https://github.com/camenduru/TextDiffuser-colab <br />
 🆕 https://github.com/camenduru/Radiata-lambda <br />
