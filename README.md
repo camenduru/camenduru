@@ -26,6 +26,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/vampnet-colab <br />
 🆕 https://github.com/camenduru/tortoise-tts-colab <br />
 🆕 https://github.com/camenduru/MusicGen-lambda 🎶 <br />
 🆕 https://github.com/camenduru/MusicGen-colab 🎶 <br />
