@@ -58,6 +58,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI
+🆕 https://github.com/camenduru/comfyui-lambda <br />
 🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/comfyui-colab <br />
 
