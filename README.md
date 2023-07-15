@@ -100,6 +100,7 @@ https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/FreeDrag-colab <br />
 🆕 https://github.com/camenduru/DragDiffusion-colab <br />
 🆕 https://github.com/camenduru/sam-hq-colab <br />
 🆕 https://github.com/camenduru/DragGAN-colab <br />
