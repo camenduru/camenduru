@@ -63,6 +63,7 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 🆕 https://github.com/camenduru/fabric-colab <br />
 🆕 https://github.com/camenduru/fabric-lambda <br />
 🆕 https://github.com/camenduru/kohya_ss-colab <br />
