@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/ZoeDepth-colab <br />
 🆕 https://github.com/camenduru/zero123-colab <br />
 🆕 https://github.com/camenduru/PanoHead-colab <br />
 🆕 https://github.com/camenduru/vid2avatar-colab <br />
