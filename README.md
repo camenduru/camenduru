@@ -63,6 +63,9 @@ https://github.com/camenduru/aica <br />
 🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/comfyui-colab <br />
 
+#### 🍨 InvokeAI
+🆕 https://github.com/camenduru/InvokeAI-colab <br />
+
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 🆕 https://github.com/camenduru/fabric-colab <br />
