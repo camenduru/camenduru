@@ -30,9 +30,7 @@ https://github.com/camenduru/pix2pix-video-colab <br />
 #### 🎙 Audio ML Papers
 🆕 https://github.com/camenduru/vampnet-colab <br />
 🆕 https://github.com/camenduru/tortoise-tts-colab <br />
-https://github.com/camenduru/MusicGen-lambda 🎶 <br />
 https://github.com/camenduru/MusicGen-colab 🎶 <br />
-https://github.com/camenduru/whisper-jax-lambda <br />
 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
 https://github.com/camenduru/whisper-jax-colab <br />
@@ -40,8 +38,6 @@ https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
-https://github.com/camenduru/stable-diffusion-webui-api-lambda <br />
-https://github.com/camenduru/stable-diffusion-webui-lambda <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
@@ -59,7 +55,6 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI
-🆕 https://github.com/camenduru/comfyui-lambda <br />
 🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/comfyui-colab <br />
 
@@ -69,14 +64,11 @@ https://github.com/camenduru/comfyui-colab <br />
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 🆕 https://github.com/camenduru/fabric-colab <br />
-🆕 https://github.com/camenduru/fabric-lambda <br />
 🆕 https://github.com/camenduru/kohya_ss-colab <br />
 🆕 https://github.com/camenduru/PSLD-colab <br />
 🆕 https://github.com/camenduru/control-a-video-colab <br />
 https://github.com/camenduru/Matting-Anything-colab <br />
 https://github.com/camenduru/TextDiffuser-colab <br />
-https://github.com/camenduru/Radiata-lambda <br />
-https://github.com/camenduru/DeepFloyd-IF-lambda  <br />
 https://github.com/camenduru/StableStudio-colab <br />
 https://github.com/camenduru/Radiata-colab <br />
 https://github.com/camenduru/DeepFloyd-IF-colab <br />
@@ -85,7 +77,6 @@ https://github.com/camenduru/grounded-segment-anything-colab <br />
 https://github.com/camenduru/kandinsky-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
-https://github.com/camenduru/converter-lambda <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
@@ -94,14 +85,9 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
-🆕 https://github.com/camenduru/text-generation-webui-lambda <br />
 🆕 https://github.com/camenduru/Video-LLaMA-colab <br />
-https://github.com/camenduru/falcon-40b-instruct-lambda <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
-https://github.com/camenduru/MiniGPT-4-lambda <br />
 https://github.com/camenduru/guanaco-colab <br />
-https://github.com/camenduru/guanaco-lambda <br />
-https://github.com/camenduru/pygmalion-7b-text-generation-webui-lambda <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
 🆕 https://github.com/camenduru/text-generation-webui-colab <br />
