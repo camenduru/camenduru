@@ -105,17 +105,16 @@ https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
 #### 🤗 Hugging Face & 🔋 Lambda Labs Gradio Demos
-https://github.com/camenduru/fabric-lambda <br />
-https://github.com/camenduru/text-generation-webui-lambda <br />
+🆕 https://github.com/camenduru/fabric-lambda <br />
+🆕 https://github.com/camenduru/text-generation-webui-lambda <br />
 https://github.com/camenduru/llama-2-70b-chat-lambda <br />
 https://github.com/camenduru/comfyui-lambda <br />
 https://github.com/camenduru/MusicGen-lambda <br />
 https://github.com/camenduru/whisper-jax-lambda <br />
-https://github.com/camenduru/stable-diffusion-webui-api-lambda <br />
 https://github.com/camenduru/stable-diffusion-webui-lambda <br />
+https://github.com/camenduru/stable-diffusion-webui-api-lambda <br />
 https://github.com/camenduru/Radiata-lambda <br />
 https://github.com/camenduru/DeepFloyd-IF-lambda <br />
-https://github.com/camenduru/converter-lambda <br />
 https://github.com/camenduru/falcon-40b-instruct-lambda <br />
 https://github.com/camenduru/MiniGPT-4-lambda <br />
 https://github.com/camenduru/guanaco-lambda <br />
@@ -123,6 +122,7 @@ https://github.com/camenduru/pygmalion-7b-text-generation-webui-lambda <br />
 https://github.com/camenduru/one-shot-talking-face-lambda <br />
 https://github.com/camenduru/guanaco-13b-lambda <br />
 https://github.com/camenduru/guanaco-33b-4bit-lambda <br />
+https://github.com/camenduru/converter-lambda <br />
 
 #### 🚦 WIP
 https://github.com/camenduru/tensor-rt-docker <br />
