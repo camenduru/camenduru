@@ -104,7 +104,7 @@ https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
-#### 🤗 Hugging Face & 🔋 Lambda Labs Gradio Demos
+#### 🔋 Gradio Demos
 🆕 https://github.com/camenduru/fabric-lambda <br />
 🆕 https://github.com/camenduru/text-generation-webui-lambda <br />
 https://github.com/camenduru/llama-2-70b-chat-lambda <br />
