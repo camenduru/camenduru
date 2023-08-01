@@ -62,6 +62,7 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/UniControl-colab <br />
 🆕 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 🆕 https://github.com/camenduru/fabric-colab <br />
 🆕 https://github.com/camenduru/kohya_ss-colab <br />
