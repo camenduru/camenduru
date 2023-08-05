@@ -10,6 +10,7 @@ https://github.com/camenduru/DiffusionAwards <br />
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/PHALP-colab <br />
 🆕 https://github.com/camenduru/ViTPose-colab <br />
+🆕 https://github.com/camenduru/DWPose-colab <br />
 https://github.com/camenduru/ZoeDepth-colab <br />
 https://github.com/camenduru/zero123-colab <br />
 https://github.com/camenduru/PanoHead-colab <br />
@@ -66,7 +67,6 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
 
 #### 🧨 Diffusers
-🆕 https://github.com/camenduru/DWPose-colab <br />
 🆕 https://github.com/camenduru/PixelFusion-colab <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
