@@ -8,18 +8,20 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
-🆕 https://github.com/camenduru/ZoeDepth-colab <br />
-🆕 https://github.com/camenduru/zero123-colab <br />
-🆕 https://github.com/camenduru/PanoHead-colab <br />
-🆕 https://github.com/camenduru/vid2avatar-colab <br />
+🆕 https://github.com/camenduru/PHALP-colab <br />
+🆕 https://github.com/camenduru/ViTPose-colab <br />
+https://github.com/camenduru/ZoeDepth-colab <br />
+https://github.com/camenduru/zero123-colab <br />
+https://github.com/camenduru/PanoHead-colab <br />
+https://github.com/camenduru/vid2avatar-colab <br />
 https://github.com/camenduru/bite-colab <br />
 https://github.com/camenduru/ECON-colab <br />
-https://github.com/camenduru/4D-Humans-colab <br />
+🆕 https://github.com/camenduru/4D-Humans-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 📽 Video ML Papers
 🆕 https://github.com/camenduru/AnimateDiff-colab <br />
-🆕 https://github.com/camenduru/Rerender-colab <br />
+https://github.com/camenduru/Rerender-colab <br />
 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
@@ -30,8 +32,8 @@ https://github.com/camenduru/pix2pix-video-colab <br />
 #### 🎙 Audio ML Papers
 🆕 https://github.com/camenduru/audiogen-colab <br />
 🆕 https://github.com/camenduru/LP-Music-Caps-colab <br />
-🆕 https://github.com/camenduru/vampnet-colab <br />
-🆕 https://github.com/camenduru/tortoise-tts-colab <br />
+https://github.com/camenduru/vampnet-colab <br />
+https://github.com/camenduru/tortoise-tts-colab <br />
 https://github.com/camenduru/MusicGen-colab 🎶 <br />
 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
@@ -67,11 +69,11 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/DWPose-colab <br />
 🆕 https://github.com/camenduru/PixelFusion-colab <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
-🆕 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
-🆕 https://github.com/camenduru/fabric-colab <br />
-🆕 https://github.com/camenduru/kohya_ss-colab <br />
-🆕 https://github.com/camenduru/PSLD-colab <br />
-🆕 https://github.com/camenduru/control-a-video-colab <br />
+https://github.com/camenduru/tiny-stable-diffusion-colab <br />
+https://github.com/camenduru/fabric-colab <br />
+https://github.com/camenduru/kohya_ss-colab <br />
+https://github.com/camenduru/PSLD-colab <br />
+https://github.com/camenduru/control-a-video-colab <br />
 https://github.com/camenduru/Matting-Anything-colab <br />
 https://github.com/camenduru/TextDiffuser-colab <br />
 https://github.com/camenduru/StableStudio-colab <br />
@@ -103,9 +105,9 @@ https://github.com/camenduru/alpaca-lora-colab <br />
 🆕 https://github.com/camenduru/anime-face-detector-colab <br />
 🆕 https://github.com/camenduru/insightface-person-detection-colab <br />
 🆕 https://github.com/camenduru/insightface-face-detection-colab <br />
-🆕 https://github.com/camenduru/FreeDrag-colab <br />
-🆕 https://github.com/camenduru/DragDiffusion-colab <br />
-🆕 https://github.com/camenduru/sam-hq-colab <br />
+https://github.com/camenduru/FreeDrag-colab <br />
+https://github.com/camenduru/DragDiffusion-colab <br />
+https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/DragGAN-colab <br />
 https://github.com/camenduru/UserControllableLT-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
