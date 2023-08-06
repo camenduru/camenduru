@@ -8,9 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
-🆕 https://github.com/camenduru/VIBE-colab <br />
 🆕 https://github.com/camenduru/PHALP-colab <br />
-🆕 https://github.com/camenduru/ViTPose-colab <br />
 🆕 https://github.com/camenduru/DWPose-colab <br />
 https://github.com/camenduru/ZoeDepth-colab <br />
 https://github.com/camenduru/zero123-colab <br />
@@ -20,6 +18,9 @@ https://github.com/camenduru/bite-colab <br />
 https://github.com/camenduru/ECON-colab <br />
 🆕 https://github.com/camenduru/4D-Humans-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
+🆕 https://github.com/camenduru/PARE-colab <br />
+🆕 https://github.com/camenduru/VIBE-colab <br />
+🆕 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📽 Video ML Papers
 🆕 https://github.com/camenduru/AnimateDiff-colab <br />
