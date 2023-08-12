@@ -23,6 +23,10 @@ https://github.com/camenduru/shap-e-colab <br />
 🆕 https://github.com/camenduru/VIBE-colab <br />
 🆕 https://github.com/camenduru/ViTPose-colab <br />
 
+#### 📸 NeRF
+🆕 https://github.com/camenduru/gaussian-splatting-colab <br />
+https://github.com/camenduru/instant-ngp-colab <br />
+
 #### 📽 Video ML Papers
 🆕 https://github.com/camenduru/AnimateDiff-colab <br />
 https://github.com/camenduru/Rerender-colab <br />
@@ -118,7 +122,6 @@ https://github.com/camenduru/DragDiffusion-colab <br />
 https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/DragGAN-colab <br />
 https://github.com/camenduru/UserControllableLT-colab <br />
-https://github.com/camenduru/instant-ngp-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
