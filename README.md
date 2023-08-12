@@ -71,6 +71,9 @@ https://github.com/camenduru/comfyui-colab <br />
 #### 🍨 InvokeAI
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
 
+#### 🍭 Fooocus
+🆕 https://github.com/camenduru/Fooocus-colab <br />
+
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/PixelFusion-colab <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
