@@ -79,6 +79,7 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/ldm3d-colab <br />
 🆕 https://github.com/camenduru/PixelFusion-colab <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
