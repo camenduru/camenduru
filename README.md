@@ -105,6 +105,7 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/text-generation-webui-saturncloud <br />
 🆕 https://github.com/camenduru/DoctorGPT-colab <br />
 🆕 https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
