@@ -50,8 +50,6 @@ https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
-🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
-🆕 https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
@@ -105,7 +103,6 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
-🆕 https://github.com/camenduru/text-generation-webui-saturncloud <br />
 🆕 https://github.com/camenduru/DoctorGPT-colab <br />
 🆕 https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
@@ -148,6 +145,14 @@ https://github.com/camenduru/one-shot-talking-face-lambda <br />
 https://github.com/camenduru/guanaco-13b-lambda <br />
 https://github.com/camenduru/guanaco-33b-4bit-lambda <br />
 https://github.com/camenduru/converter-lambda <br />
+
+#### 🪐 Saturn Cloud Demos
+🆕 https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
+🆕 https://github.com/camenduru/text-generation-webui-saturncloud <br />
+
+#### 🥼 Open X Lab Demos
+🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
+🆕 https://github.com/camenduru/DoctorGPT-openxlab <br />
 
 #### 🚦 WIP
 https://github.com/camenduru/tensor-rt-docker <br />
