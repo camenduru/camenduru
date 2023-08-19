@@ -28,6 +28,7 @@ https://github.com/camenduru/shap-e-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/CoDeF-colab <br />
 🆕 https://github.com/camenduru/AnimateDiff-colab <br />
 https://github.com/camenduru/Rerender-colab <br />
 https://github.com/camenduru/3d-photo-inpainting-colab <br />
