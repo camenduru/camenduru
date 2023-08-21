@@ -150,6 +150,7 @@ https://github.com/camenduru/converter-lambda <br />
 #### 🪐 Saturn Cloud Demos
 🆕 https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
 🆕 https://github.com/camenduru/text-generation-webui-saturncloud <br />
+🆕 https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
 🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
