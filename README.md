@@ -41,6 +41,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.dev/camenduru/VALL-E-X-colab <br />
 🆕 https://github.com/camenduru/seamless-m4t-colab <br />
 🆕 https://github.com/camenduru/audiogen-colab <br />
 🆕 https://github.com/camenduru/LP-Music-Caps-colab <br />
