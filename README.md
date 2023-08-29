@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/cotracker-colab <br />
 🆕 https://github.com/camenduru/NIKI-colab <br />
 🆕 https://github.com/camenduru/PHALP-colab <br />
 🆕 https://github.com/camenduru/DWPose-colab <br />
