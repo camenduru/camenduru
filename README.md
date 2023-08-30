@@ -83,6 +83,7 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/facechain-colab <br />
 🆕 https://github.com/camenduru/StableVideo-colab <br />
 🆕 https://github.com/camenduru/StableSR-colab <br />
 🆕 https://github.com/camenduru/ldm3d-colab <br />
