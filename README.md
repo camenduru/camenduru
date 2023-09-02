@@ -53,7 +53,7 @@ https://github.com/camenduru/MusicGen-colab 🎶 <br />
 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
 https://github.com/camenduru/whisper-jax-colab <br />
-https://github.com/camenduru/bark-colab 🐕 <br />
+🆕 https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
