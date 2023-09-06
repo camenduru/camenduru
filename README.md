@@ -84,6 +84,9 @@ https://github.com/camenduru/comfyui-colab <br />
 #### 🍭 Fooocus
 🆕 https://github.com/camenduru/Fooocus-colab <br />
 
+#### 🍥 SDXL Model
+🆕 https://github.com/camenduru/ios-emoji-xl-model-colab
+
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/facechain-colab <br />
 🆕 https://github.com/camenduru/StableVideo-colab <br />
