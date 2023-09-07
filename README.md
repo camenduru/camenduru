@@ -117,6 +117,7 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/Qwen-VL-Chat-colab <br />
 🆕 https://github.com/camenduru/kosmos-2-colab <br />
 🆕 https://github.com/camenduru/Llama-2-Onnx-colab <br />
 🆕 https://github.com/camenduru/japanese-text-generation-webui-colab <br />
