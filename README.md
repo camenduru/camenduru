@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/threestudio-colab <br />
 🆕 https://github.com/camenduru/IT3D-text-to-3D-colab <br />
 🆕 https://github.com/camenduru/cotracker-colab <br />
 🆕 https://github.com/camenduru/NIKI-colab <br />
