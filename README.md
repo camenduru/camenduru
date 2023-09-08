@@ -59,7 +59,7 @@ https://github.com/camenduru/whisper-jax-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
-🆕 https://github.com/camenduru/stable-diffusion-webui-modal <br />
+🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
@@ -77,7 +77,6 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI
-🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍨 InvokeAI
@@ -85,9 +84,6 @@ https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍭 Fooocus
 🆕 https://github.com/camenduru/Fooocus-colab <br />
-
-#### 🍥 SDXL Model
-🆕 https://github.com/camenduru/ios-emoji-xl-model-colab
 
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/facechain-colab <br />
@@ -176,6 +172,13 @@ https://github.com/camenduru/converter-lambda <br />
 🆕 https://github.com/camenduru/I2VGen-XL-openxlab <br />
 🆕 https://github.com/camenduru/DoctorGPT-openxlab <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
+
+#### 🦗 Modal Demos
+🆕 https://github.com/camenduru/stable-diffusion-webui-modal <br />
+🆕 https://github.com/camenduru/One-2-3-45-modal <br />
+
+#### 📦 SDXL Models
+🆕 https://github.com/camenduru/ios-emoji-xl-model-colab
 
 #### 🚦 WIP
 https://github.com/camenduru/tensor-rt-docker <br />
