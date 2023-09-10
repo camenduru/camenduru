@@ -90,7 +90,6 @@ https://github.com/camenduru/aica <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 https://github.com/camenduru/fabric-colab <br />
-https://github.com/camenduru/kohya_ss-colab <br />
 https://github.com/camenduru/PSLD-colab <br />
 https://github.com/camenduru/control-a-video-colab <br />
 https://github.com/camenduru/Matting-Anything-colab <br />
