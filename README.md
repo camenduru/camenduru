@@ -62,7 +62,6 @@ https://github.com/camenduru/audioldm-colab <br />
 🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
-🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 https://github.com/camenduru/stable-diffusion-webui-docker <br />
@@ -75,9 +74,6 @@ https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
 https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
-
-#### 🍥 Comfy UI
-https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍨 InvokeAI
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
