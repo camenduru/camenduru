@@ -76,6 +76,9 @@ https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
+#### 🍥 Comfy UI
+https://github.com/camenduru/comfyui-colab <br />
+
 #### 🍨 InvokeAI
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
 
