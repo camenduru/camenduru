@@ -59,6 +59,8 @@ https://github.com/camenduru/whisper-jax-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
+🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
+🆕 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
@@ -90,6 +92,7 @@ https://github.com/camenduru/aica <br />
 🆕 https://github.com/camenduru/UniControl-colab <br />
 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 https://github.com/camenduru/fabric-colab <br />
+https://github.com/camenduru/kohya_ss-colab <br />
 https://github.com/camenduru/PSLD-colab <br />
 https://github.com/camenduru/control-a-video-colab <br />
 https://github.com/camenduru/Matting-Anything-colab <br />
