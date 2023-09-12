@@ -170,11 +170,13 @@ https://github.com/camenduru/converter-lambda <br />
 🆕 https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
+🆕 https://github.com/camenduru/DiffBIR-openxlab <br />
 🆕 https://github.com/camenduru/I2VGen-XL-openxlab <br />
 🆕 https://github.com/camenduru/DoctorGPT-openxlab <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
 
 #### 🦗 Modal Demos
+🆕 https://github.com/camenduru/DiffBIR-modal <br />
 🆕 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 🆕 https://github.com/camenduru/One-2-3-45-modal <br />
 
