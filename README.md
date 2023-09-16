@@ -11,21 +11,24 @@ https://github.com/camenduru/DiffusionAwards <br />
 🆕 https://github.com/camenduru/SyncDreamer-colab <br />
 🆕 https://github.com/camenduru/threestudio-colab <br />
 🆕 https://github.com/camenduru/IT3D-text-to-3D-colab <br />
-🆕 https://github.com/camenduru/cotracker-colab <br />
-🆕 https://github.com/camenduru/NIKI-colab <br />
-🆕 https://github.com/camenduru/PHALP-colab <br />
-🆕 https://github.com/camenduru/DWPose-colab <br />
+https://github.com/camenduru/cotracker-colab <br />
 https://github.com/camenduru/ZoeDepth-colab <br />
 https://github.com/camenduru/zero123-colab <br />
 https://github.com/camenduru/PanoHead-colab <br />
-https://github.com/camenduru/vid2avatar-colab <br />
 https://github.com/camenduru/bite-colab <br />
 https://github.com/camenduru/ECON-colab <br />
-🆕 https://github.com/camenduru/4D-Humans-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
-🆕 https://github.com/camenduru/PARE-colab <br />
-🆕 https://github.com/camenduru/VIBE-colab <br />
-🆕 https://github.com/camenduru/ViTPose-colab <br />
+
+#### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/MotionDiffuse-colab <br />
+https://github.com/camenduru/NIKI-colab <br />
+https://github.com/camenduru/PHALP-colab <br />
+https://github.com/camenduru/DWPose-colab <br />
+https://github.com/camenduru/4D-Humans-colab <br />
+https://github.com/camenduru/vid2avatar-colab <br />
+https://github.com/camenduru/PARE-colab <br />
+https://github.com/camenduru/VIBE-colab <br />
+https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF
 🆕 https://github.com/camenduru/neuralangelo-colab <br />
@@ -50,14 +53,14 @@ https://github.com/camenduru/pix2pix-video-colab <br />
 🆕 https://github.com/camenduru/VALL-E-X-colab <br />
 🆕 https://github.com/camenduru/seamless-m4t-colab <br />
 🆕 https://github.com/camenduru/audiogen-colab <br />
-🆕 https://github.com/camenduru/LP-Music-Caps-colab <br />
+https://github.com/camenduru/LP-Music-Caps-colab <br />
 https://github.com/camenduru/vampnet-colab <br />
 https://github.com/camenduru/tortoise-tts-colab <br />
 https://github.com/camenduru/MusicGen-colab 🎶 <br />
 https://github.com/camenduru/elevenlabs-colab <br />
 https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
 https://github.com/camenduru/whisper-jax-colab <br />
-🆕 https://github.com/camenduru/bark-colab 🐕 <br />
+https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
