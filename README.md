@@ -117,7 +117,7 @@ https://github.com/camenduru/ControlNet-v1-1-nightly-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 https://github.com/camenduru/kandinsky-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
-https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
+🆕 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
