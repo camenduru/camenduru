@@ -94,6 +94,7 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/IllusionDiffusion-colab <br />
 🆕 https://github.com/camenduru/Wuerstchen-colab <br />
 🆕 https://github.com/camenduru/T2I-Adapter-SDXL-colab <br />
 🆕 https://github.com/camenduru/facechain-colab <br />
