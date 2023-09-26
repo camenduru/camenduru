@@ -91,6 +91,7 @@ https://github.com/camenduru/comfyui-colab <br />
 🆕 https://github.com/camenduru/InvokeAI-colab <br />
 
 #### 🍭 Fooocus
+🆕 https://github.com/camenduru/Fooocus-docker <br />
 🆕 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
