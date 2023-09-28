@@ -143,6 +143,7 @@ https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/FastSAM-colab <br />
 🆕 https://github.com/camenduru/DiffBIR-colab <br />
 🆕 https://github.com/camenduru/inst-inpaint-colab <br />
 🆕 https://github.com/camenduru/anime-face-detector-colab <br />
