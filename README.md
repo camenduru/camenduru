@@ -10,10 +10,10 @@ https://github.com/camenduru/DiffusionAwards <br />
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/dreamgaussian-colab <br />
 🆕 https://github.com/camenduru/Text2Tex-colab <br />
-🆕 https://github.com/camenduru/SyncDreamer-colab <br />
-🆕 https://github.com/camenduru/SyncDreamer-docker <br />
-🆕 https://github.com/camenduru/threestudio-colab <br />
-🆕 https://github.com/camenduru/IT3D-text-to-3D-colab <br />
+https://github.com/camenduru/SyncDreamer-colab <br />
+https://github.com/camenduru/SyncDreamer-docker <br />
+https://github.com/camenduru/threestudio-colab <br />
+https://github.com/camenduru/IT3D-text-to-3D-colab <br />
 https://github.com/camenduru/cotracker-colab <br />
 https://github.com/camenduru/ZoeDepth-colab <br />
 https://github.com/camenduru/zero123-colab <br />
@@ -35,15 +35,15 @@ https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF
 🆕 https://github.com/camenduru/neuralangelo-colab <br />
-🆕 https://github.com/camenduru/gaussian-splatting-colab <br />
+https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
 🆕 https://github.com/camenduru/ProPainter-colab <br />
-🆕 https://github.com/camenduru/TokenFlow-colab <br />
-🆕 https://github.com/camenduru/I2VGen-XL-colab <br />
-🆕 https://github.com/camenduru/CoDeF-colab <br />
-🆕 https://github.com/camenduru/AnimateDiff-colab <br />
+https://github.com/camenduru/TokenFlow-colab <br />
+https://github.com/camenduru/I2VGen-XL-colab <br />
+https://github.com/camenduru/CoDeF-colab <br />
+https://github.com/camenduru/AnimateDiff-colab <br />
 https://github.com/camenduru/Rerender-colab <br />
 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
@@ -54,9 +54,9 @@ https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
 🆕 https://github.com/camenduru/coqui-XTTS-colab <br />
-🆕 https://github.com/camenduru/VALL-E-X-colab <br />
-🆕 https://github.com/camenduru/seamless-m4t-colab <br />
-🆕 https://github.com/camenduru/audiogen-colab <br />
+https://github.com/camenduru/VALL-E-X-colab <br />
+https://github.com/camenduru/seamless-m4t-colab <br />
+https://github.com/camenduru/audiogen-colab <br />
 https://github.com/camenduru/LP-Music-Caps-colab <br />
 https://github.com/camenduru/vampnet-colab <br />
 https://github.com/camenduru/tortoise-tts-colab <br />
@@ -68,8 +68,8 @@ https://github.com/camenduru/bark-colab 🐕 <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
-🆕 https://github.com/camenduru/stable-diffusion-webui-colab <br />
-🆕 https://github.com/camenduru/sdxl-colab <br />
+https://github.com/camenduru/stable-diffusion-webui-colab <br />
+https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
 https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
@@ -89,23 +89,23 @@ https://github.com/camenduru/aica <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍨 InvokeAI
-🆕 https://github.com/camenduru/InvokeAI-colab <br />
+https://github.com/camenduru/InvokeAI-colab <br />
 
 #### 🍭 Fooocus
 🆕 https://github.com/camenduru/Fooocus-docker <br />
-🆕 https://github.com/camenduru/Fooocus-colab <br />
+https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/background-replacement-colab <br />
 🆕 https://github.com/camenduru/IllusionDiffusion-colab <br />
 🆕 https://github.com/camenduru/Wuerstchen-colab <br />
-🆕 https://github.com/camenduru/T2I-Adapter-SDXL-colab <br />
-🆕 https://github.com/camenduru/facechain-colab <br />
-🆕 https://github.com/camenduru/StableVideo-colab <br />
-🆕 https://github.com/camenduru/StableSR-colab <br />
-🆕 https://github.com/camenduru/ldm3d-colab <br />
-🆕 https://github.com/camenduru/PixelFusion-colab <br />
-🆕 https://github.com/camenduru/UniControl-colab <br />
+https://github.com/camenduru/T2I-Adapter-SDXL-colab <br />
+https://github.com/camenduru/facechain-colab <br />
+https://github.com/camenduru/StableVideo-colab <br />
+https://github.com/camenduru/StableSR-colab <br />
+https://github.com/camenduru/ldm3d-colab <br />
+https://github.com/camenduru/PixelFusion-colab <br />
+https://github.com/camenduru/UniControl-colab <br />
 https://github.com/camenduru/tiny-stable-diffusion-colab <br />
 https://github.com/camenduru/fabric-colab <br />
 https://github.com/camenduru/kohya_ss-colab <br />
@@ -130,11 +130,11 @@ https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 🦙 LLM
 🆕 https://github.com/camenduru/Qwen-VL-Chat-colab <br />
-🆕 https://github.com/camenduru/kosmos-2-colab <br />
-🆕 https://github.com/camenduru/Llama-2-Onnx-colab <br />
-🆕 https://github.com/camenduru/japanese-text-generation-webui-colab <br />
-🆕 https://github.com/camenduru/DoctorGPT-colab <br />
-🆕 https://github.com/camenduru/Video-LLaMA-colab <br />
+https://github.com/camenduru/kosmos-2-colab <br />
+https://github.com/camenduru/Llama-2-Onnx-colab <br />
+https://github.com/camenduru/japanese-text-generation-webui-colab <br />
+https://github.com/camenduru/DoctorGPT-colab <br />
+https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
 https://github.com/camenduru/guanaco-colab <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
@@ -145,11 +145,11 @@ https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
 🆕 https://github.com/camenduru/FastSAM-colab <br />
-🆕 https://github.com/camenduru/DiffBIR-colab <br />
-🆕 https://github.com/camenduru/inst-inpaint-colab <br />
-🆕 https://github.com/camenduru/anime-face-detector-colab <br />
-🆕 https://github.com/camenduru/insightface-person-detection-colab <br />
-🆕 https://github.com/camenduru/insightface-face-detection-colab <br />
+https://github.com/camenduru/DiffBIR-colab <br />
+https://github.com/camenduru/inst-inpaint-colab <br />
+https://github.com/camenduru/anime-face-detector-colab <br />
+https://github.com/camenduru/insightface-person-detection-colab <br />
+https://github.com/camenduru/insightface-face-detection-colab <br />
 https://github.com/camenduru/FreeDrag-colab <br />
 https://github.com/camenduru/DragDiffusion-colab <br />
 https://github.com/camenduru/sam-hq-colab <br />
@@ -159,8 +159,8 @@ https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
 #### 🔋 Lambda Labs Demos
-🆕 https://github.com/camenduru/fabric-lambda <br />
-🆕 https://github.com/camenduru/text-generation-webui-lambda <br />
+https://github.com/camenduru/fabric-lambda <br />
+https://github.com/camenduru/text-generation-webui-lambda <br />
 https://github.com/camenduru/llama-2-70b-chat-lambda <br />
 https://github.com/camenduru/comfyui-lambda <br />
 https://github.com/camenduru/MusicGen-lambda <br />
@@ -179,29 +179,29 @@ https://github.com/camenduru/guanaco-33b-4bit-lambda <br />
 https://github.com/camenduru/converter-lambda <br />
 
 #### 🪐 Saturn Cloud Demos
-🆕 https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
-🆕 https://github.com/camenduru/text-generation-webui-saturncloud <br />
-🆕 https://github.com/camenduru/comfyui-saturncloud <br />
+https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
+https://github.com/camenduru/text-generation-webui-saturncloud <br />
+https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
 🆕 https://github.com/camenduru/DiffBIR-openxlab <br />
-🆕 https://github.com/camenduru/I2VGen-XL-openxlab <br />
-🆕 https://github.com/camenduru/DoctorGPT-openxlab <br />
-🆕 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
+https://github.com/camenduru/I2VGen-XL-openxlab <br />
+https://github.com/camenduru/DoctorGPT-openxlab <br />
+https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
 
 #### 🦗 Modal Demos
-🆕 https://github.com/camenduru/DiffBIR-modal <br />
-🆕 https://github.com/camenduru/stable-diffusion-webui-modal <br />
-🆕 https://github.com/camenduru/One-2-3-45-modal <br />
+https://github.com/camenduru/DiffBIR-modal <br />
+https://github.com/camenduru/stable-diffusion-webui-modal <br />
+https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 📦 SDXL Models
-🆕 https://github.com/camenduru/ios-emoji-xl-model-colab
+https://github.com/camenduru/ios-emoji-xl-model-colab
 
 #### 🚦 WIP
 https://github.com/camenduru/tensor-rt-docker <br />
 
 #### 📚 Tutorials
-🆕 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
+https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 🕹 Unreal Engine
