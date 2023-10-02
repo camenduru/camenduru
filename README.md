@@ -97,6 +97,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/litelama-colab <br />
 🆕 https://github.com/camenduru/background-replacement-colab <br />
 🆕 https://github.com/camenduru/IllusionDiffusion-colab <br />
 🆕 https://github.com/camenduru/Wuerstchen-colab <br />
