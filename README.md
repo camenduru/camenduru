@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/MVDream-colab <br />
 🆕 https://github.com/camenduru/dreamgaussian-colab <br />
 🆕 https://github.com/camenduru/Text2Tex-colab <br />
 https://github.com/camenduru/SyncDreamer-colab <br />
