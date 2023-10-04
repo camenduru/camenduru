@@ -41,6 +41,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/Hotshot-XL-colab <br />
 🆕 https://github.com/camenduru/video-retalking-colab <br />
 🆕 https://github.com/camenduru/ProPainter-colab <br />
 https://github.com/camenduru/TokenFlow-colab <br />
