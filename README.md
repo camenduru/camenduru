@@ -41,6 +41,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/VideoCrafter-colab <br />
 🆕 https://github.com/camenduru/Hotshot-XL-colab <br />
 🆕 https://github.com/camenduru/video-retalking-colab <br />
 🆕 https://github.com/camenduru/ProPainter-colab <br />
@@ -48,7 +49,7 @@ https://github.com/camenduru/TokenFlow-colab <br />
 https://github.com/camenduru/I2VGen-XL-colab <br />
 https://github.com/camenduru/CoDeF-colab <br />
 https://github.com/camenduru/AnimateDiff-colab <br />
-https://github.com/camenduru/Rerender-colab <br />
+🆕 https://github.com/camenduru/Rerender-colab <br />
 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
 🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
@@ -57,6 +58,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/AudioSep-colab <br />
 🆕 https://github.com/camenduru/coqui-XTTS-colab <br />
 https://github.com/camenduru/VALL-E-X-colab <br />
 https://github.com/camenduru/seamless-m4t-colab <br />
