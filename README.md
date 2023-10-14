@@ -36,6 +36,7 @@ https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF
+🆕 https://github.com/camenduru/4DGaussians-colab <br />
 🆕 https://github.com/camenduru/neuralangelo-colab <br />
 https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
