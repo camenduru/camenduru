@@ -155,6 +155,7 @@ https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/disco-colab <br />
 🆕 https://github.com/camenduru/daclip-uir-colab <br />
 🆕 https://github.com/camenduru/FastSAM-colab <br />
 https://github.com/camenduru/DiffBIR-colab <br />
