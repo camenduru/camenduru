@@ -106,6 +106,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/SSD-1B-colab <br />
 🆕 https://github.com/camenduru/DiffSketcher-colab <br />
 🆕 https://github.com/camenduru/FreeU-colab <br />
 🆕 https://github.com/camenduru/stable-fast-colab <br />
