@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/Wonder3D-colab <br />
 🆕 https://github.com/camenduru/zero123plus-colab <br />
 🆕 https://github.com/camenduru/GaussianDreamer-colab <br />
 🆕 https://github.com/camenduru/MVDream-colab <br />
