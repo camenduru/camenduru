@@ -108,6 +108,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/PeRF-colab <br />
 🆕 https://github.com/camenduru/SSD-1B-colab <br />
 🆕 https://github.com/camenduru/latent-consistency-model-colab <br />
 🆕 https://github.com/camenduru/DiffSketcher-colab <br />
