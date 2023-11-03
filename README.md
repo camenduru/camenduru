@@ -39,6 +39,7 @@ https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF
+🆕 https://github.com/camenduru/PeRF-colab <br />
 🆕 https://github.com/camenduru/4DGaussians-colab <br />
 🆕 https://github.com/camenduru/neuralangelo-colab <br />
 https://github.com/camenduru/gaussian-splatting-colab <br />
@@ -108,7 +109,6 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
-🆕 https://github.com/camenduru/PeRF-colab <br />
 🆕 https://github.com/camenduru/SSD-1B-colab <br />
 🆕 https://github.com/camenduru/latent-consistency-model-colab <br />
 🆕 https://github.com/camenduru/DiffSketcher-colab <br />
