@@ -46,6 +46,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/stable-video-diffusion-colab <br />
 🆕 https://github.com/camenduru/SadTalker-colab <br />
 🆕 https://github.com/camenduru/Show-1-colab <br />
 🆕 https://github.com/camenduru/VideoCrafter-colab <br />
@@ -210,6 +211,7 @@ https://github.com/camenduru/text-generation-webui-saturncloud <br />
 https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
+🆕 https://github.com/camenduru/stable-video-diffusion-openxlab <br />
 🆕 https://github.com/camenduru/DiffBIR-openxlab <br />
 https://github.com/camenduru/I2VGen-XL-openxlab <br />
 https://github.com/camenduru/DoctorGPT-openxlab <br />
