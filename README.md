@@ -150,20 +150,23 @@ https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio-colab <br />
 https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
-#### 🦙 LLM
+#### 🦙 LLM 👀 Vision
+🆕 https://github.com/camenduru/ShareGPT4V-colab
 🆕 https://github.com/camenduru/MiniGPT-v2-colab <br />
-🆕 https://github.com/camenduru/Mistral-colab <br />
 🆕 https://github.com/camenduru/LLaVA-colab <br />
 🆕 https://github.com/camenduru/Qwen-VL-Chat-colab <br />
 https://github.com/camenduru/kosmos-2-colab <br />
+https://github.com/camenduru/Video-LLaMA-colab <br />
+https://github.com/camenduru/MiniGPT-4-colab <br />
+
+#### 🦙 LLM
+🆕 https://github.com/camenduru/Mistral-colab <br />
 https://github.com/camenduru/Llama-2-Onnx-colab <br />
 https://github.com/camenduru/japanese-text-generation-webui-colab <br />
 https://github.com/camenduru/DoctorGPT-colab <br />
-https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
 https://github.com/camenduru/guanaco-colab <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
-https://github.com/camenduru/MiniGPT-4-colab 👀 <br />
 🆕 https://github.com/camenduru/text-generation-webui-colab <br />
 https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
