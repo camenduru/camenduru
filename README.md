@@ -226,6 +226,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 📦 SDXL Models
+https://github.com/camenduru/xenmon-xl-model-colab
 https://github.com/camenduru/ios-emoji-xl-model-colab
 
 #### 🚦 WIP
