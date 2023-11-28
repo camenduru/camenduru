@@ -110,6 +110,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/sliders-colab <br />
 🆕 https://github.com/camenduru/SD-T2I-360PanoImage-colab <br />
 🆕 https://github.com/camenduru/SSD-1B-colab <br />
 🆕 https://github.com/camenduru/latent-consistency-model-colab <br />
