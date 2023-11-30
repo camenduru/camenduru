@@ -163,6 +163,7 @@ https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/Qwen-Audio-Chat-colab <br />
 🆕 https://github.com/camenduru/Mistral-colab <br />
 https://github.com/camenduru/Llama-2-Onnx-colab <br />
 https://github.com/camenduru/japanese-text-generation-webui-colab <br />
