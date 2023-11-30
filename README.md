@@ -8,6 +8,7 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/LucidDreamer-colab <br />
 🆕 https://github.com/camenduru/Wonder3D-colab <br />
 🆕 https://github.com/camenduru/zero123plus-colab <br />
 🆕 https://github.com/camenduru/GaussianDreamer-colab <br />
@@ -110,6 +111,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/cross-image-attention-colab <br />
 🆕 https://github.com/camenduru/sliders-colab <br />
 🆕 https://github.com/camenduru/SD-T2I-360PanoImage-colab <br />
 🆕 https://github.com/camenduru/SSD-1B-colab <br />
