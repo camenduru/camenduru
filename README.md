@@ -112,6 +112,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/sdxl-turbo-colab <br />
 🆕 https://github.com/camenduru/cross-image-attention-colab <br />
 🆕 https://github.com/camenduru/sliders-colab <br />
 🆕 https://github.com/camenduru/SD-T2I-360PanoImage-colab <br />
