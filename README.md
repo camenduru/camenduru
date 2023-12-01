@@ -47,6 +47,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/SEINE-colab <br />
 🆕 https://github.com/camenduru/LaVie-colab <br />
 🆕 https://github.com/camenduru/stable-video-diffusion-colab <br />
 🆕 https://github.com/camenduru/SadTalker-colab <br />
