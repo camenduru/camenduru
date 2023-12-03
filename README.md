@@ -8,6 +8,8 @@
 https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/GeoDream-colab <br />
+🆕 https://github.com/camenduru/4dfy-colab <br />
 🆕 https://github.com/camenduru/LucidDreamer-colab <br />
 🆕 https://github.com/camenduru/Wonder3D-colab <br />
 🆕 https://github.com/camenduru/zero123plus-colab <br />
@@ -47,6 +49,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/MotionDirector-colab <br />
 🆕 https://github.com/camenduru/SEINE-colab <br />
 🆕 https://github.com/camenduru/LaVie-colab <br />
 🆕 https://github.com/camenduru/stable-video-diffusion-colab <br />
@@ -72,16 +75,16 @@ https://github.com/camenduru/pix2pix-video-colab <br />
 🆕 https://github.com/camenduru/AudioSep-colab <br />
 🆕 https://github.com/camenduru/coqui-XTTS-colab <br />
 https://github.com/camenduru/VALL-E-X-colab <br />
-https://github.com/camenduru/seamless-m4t-colab <br />
+🆕 https://github.com/camenduru/seamless-m4t-colab <br />
 https://github.com/camenduru/audiogen-colab <br />
 https://github.com/camenduru/LP-Music-Caps-colab <br />
 https://github.com/camenduru/vampnet-colab <br />
 https://github.com/camenduru/tortoise-tts-colab <br />
-https://github.com/camenduru/MusicGen-colab 🎶 <br />
+https://github.com/camenduru/MusicGen-colab <br />
 https://github.com/camenduru/elevenlabs-colab <br />
-https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab 🎶 <br />
+https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab <br />
 https://github.com/camenduru/whisper-jax-colab <br />
-https://github.com/camenduru/bark-colab 🐕 <br />
+https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧿 Web UI
@@ -228,6 +231,7 @@ https://github.com/camenduru/DoctorGPT-openxlab <br />
 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
 
 #### 🦗 Modal Demos
+https://github.com/camenduru/jupyter-modal <br />
 https://github.com/camenduru/DiffBIR-modal <br />
 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
