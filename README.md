@@ -72,6 +72,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/styletts-colab <br />
 🆕 https://github.com/camenduru/HierSpeech_TTS-colab <br />
 🆕 https://github.com/camenduru/AudioSep-colab <br />
 🆕 https://github.com/camenduru/coqui-XTTS-colab <br />
