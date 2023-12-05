@@ -118,6 +118,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/style-aligned-colab <br />
 🆕 https://github.com/camenduru/MagicAnimate-colab <br />
 🆕 https://github.com/camenduru/sdxl-turbo-colab <br />
 🆕 https://github.com/camenduru/cross-image-attention-colab <br />
