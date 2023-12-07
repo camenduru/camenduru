@@ -43,6 +43,7 @@ https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF
+🆕 https://github.com/camenduru/LucidDreamer-Gaussian-colab <br />
 🆕 https://github.com/camenduru/PeRF-colab <br />
 🆕 https://github.com/camenduru/4DGaussians-colab <br />
 🆕 https://github.com/camenduru/neuralangelo-colab <br />
