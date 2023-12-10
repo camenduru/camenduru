@@ -120,6 +120,7 @@ https://github.com/camenduru/InvokeAI-colab <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/Mix-of-Show-colab <br />
 🆕 https://github.com/camenduru/SyncDiffusion-colab <br />
 🆕 https://github.com/camenduru/DemoFusion-colab <br />
 🆕 https://github.com/camenduru/playground-colab <br />
