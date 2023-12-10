@@ -88,34 +88,6 @@ https://github.com/camenduru/whisper-jax-colab <br />
 https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
-#### 🧿 Web UI
-https://github.com/camenduru/stable-diffusion-webui-colab <br />
-https://github.com/camenduru/sdxl-colab <br />
-https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
-https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
-https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
-https://github.com/camenduru/stable-diffusion-webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-huggingface <br />
-https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
-https://github.com/camenduru/stable-diffusion-webui-runpod <br />
-https://github.com/camenduru/stable-diffusion-webui-vultr <br />
-https://github.com/camenduru/stable-diffusion-webui-portable <br />
-https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
-https://github.com/camenduru/stable-diffusion-webui-scripts <br />
-https://github.com/camenduru/ai-creator-archive <br />
-https://github.com/camenduru/aica <br />
-
-#### 🍥 Comfy UI
-https://github.com/camenduru/comfyui-colab <br />
-
-#### 🍨 InvokeAI
-https://github.com/camenduru/InvokeAI-colab <br />
-
-#### 🍭 Fooocus
-🆕 https://github.com/camenduru/Fooocus-docker <br />
-https://github.com/camenduru/Fooocus-colab <br />
-
 #### 🧨 Diffusers
 🆕 https://github.com/camenduru/Mix-of-Show-colab <br />
 🆕 https://github.com/camenduru/SyncDiffusion-colab <br />
@@ -213,6 +185,34 @@ https://github.com/camenduru/ios-emoji-xl-model-colab <br />
 #### 📚 Tutorials
 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
+
+#### 🧿 Web UI
+https://github.com/camenduru/stable-diffusion-webui-colab <br />
+https://github.com/camenduru/sdxl-colab <br />
+https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
+https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
+https://github.com/camenduru/stable-diffusion-webui-docker <br />
+https://github.com/camenduru/stable-diffusion-webui-huggingface <br />
+https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
+https://github.com/camenduru/stable-diffusion-webui-runpod <br />
+https://github.com/camenduru/stable-diffusion-webui-vultr <br />
+https://github.com/camenduru/stable-diffusion-webui-portable <br />
+https://github.com/camenduru/stable-diffusion-webui-artists-to-study <br />
+https://github.com/camenduru/stable-diffusion-webui-scripts <br />
+https://github.com/camenduru/ai-creator-archive <br />
+https://github.com/camenduru/aica <br />
+
+#### 🍥 Comfy UI
+https://github.com/camenduru/comfyui-colab <br />
+
+#### 🍨 InvokeAI
+https://github.com/camenduru/InvokeAI-colab <br />
+
+#### 🍭 Fooocus
+🆕 https://github.com/camenduru/Fooocus-docker <br />
+https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🔋 Lambda Labs Demos
 https://github.com/camenduru/fabric-lambda <br />
