@@ -4,9 +4,6 @@
 
 #### 🔥 Active Repos 🔥
 
-#### 🏆 Diffusion Awards
-https://github.com/camenduru/DiffusionAwards <br />
-
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/HumanGaussian-colab <br />
 🆕 https://github.com/camenduru/GeoDream-colab <br />
@@ -209,6 +206,14 @@ https://github.com/camenduru/UserControllableLT-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
+#### 📦 SDXL Models
+https://github.com/camenduru/xenmon-xl-model-colab <br />
+https://github.com/camenduru/ios-emoji-xl-model-colab <br />
+
+#### 📚 Tutorials
+https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
+https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
+
 #### 🔋 Lambda Labs Demos
 https://github.com/camenduru/fabric-lambda <br />
 https://github.com/camenduru/text-generation-webui-lambda <br />
@@ -247,17 +252,6 @@ https://github.com/camenduru/DiffBIR-modal <br />
 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
-#### 📦 SDXL Models
-https://github.com/camenduru/xenmon-xl-model-colab <br />
-https://github.com/camenduru/ios-emoji-xl-model-colab <br />
-
-#### 🚦 WIP
-https://github.com/camenduru/tensor-rt-docker <br />
-
-#### 📚 Tutorials
-https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
-https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
-
 #### 🕹 Unreal Engine
 https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
 https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
@@ -266,6 +260,9 @@ https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
 https://github.com/camenduru/seamless <br />
 
 #### 🧯 Old Projects 🧯
+
+#### 🏆 Diffusion Awards
+https://github.com/camenduru/DiffusionAwards <br />
 
 #### 🥽 VR 
 Full Body Motion Capture With HTC Vive and Unity <br />
