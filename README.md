@@ -178,9 +178,10 @@ https://github.com/camenduru/UserControllableLT-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
-#### 📦 SDXL Models
+#### 📦 Models
 https://github.com/camenduru/xenmon-xl-model-colab <br />
 https://github.com/camenduru/ios-emoji-xl-model-colab <br />
+https://github.com/camenduru/text-to-video-model <br />
 
 #### 📚 Tutorials
 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
