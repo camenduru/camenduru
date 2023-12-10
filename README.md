@@ -2,19 +2,17 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-#### 🔥 Active Repos 🔥
-
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/HumanGaussian-colab <br />
 🆕 https://github.com/camenduru/GeoDream-colab <br />
 🆕 https://github.com/camenduru/4dfy-colab <br />
 🆕 https://github.com/camenduru/LucidDreamer-colab <br />
-🆕 https://github.com/camenduru/Wonder3D-colab <br />
-🆕 https://github.com/camenduru/zero123plus-colab <br />
-🆕 https://github.com/camenduru/GaussianDreamer-colab <br />
-🆕 https://github.com/camenduru/MVDream-colab <br />
-🆕 https://github.com/camenduru/dreamgaussian-colab <br />
-🆕 https://github.com/camenduru/Text2Tex-colab <br />
+https://github.com/camenduru/Wonder3D-colab <br />
+https://github.com/camenduru/zero123plus-colab <br />
+https://github.com/camenduru/GaussianDreamer-colab <br />
+https://github.com/camenduru/MVDream-colab <br />
+https://github.com/camenduru/dreamgaussian-colab <br />
+https://github.com/camenduru/Text2Tex-colab <br />
 https://github.com/camenduru/SyncDreamer-colab <br />
 https://github.com/camenduru/SyncDreamer-docker <br />
 https://github.com/camenduru/threestudio-colab <br />
@@ -42,8 +40,8 @@ https://github.com/camenduru/ViTPose-colab <br />
 #### 📸 NeRF
 🆕 https://github.com/camenduru/LucidDreamer-Gaussian-colab <br />
 🆕 https://github.com/camenduru/PeRF-colab <br />
-🆕 https://github.com/camenduru/4DGaussians-colab <br />
-🆕 https://github.com/camenduru/neuralangelo-colab <br />
+https://github.com/camenduru/4DGaussians-colab <br />
+https://github.com/camenduru/neuralangelo-colab <br />
 https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
@@ -52,20 +50,20 @@ https://github.com/camenduru/instant-ngp-colab <br />
 🆕 https://github.com/camenduru/SEINE-colab <br />
 🆕 https://github.com/camenduru/LaVie-colab <br />
 🆕 https://github.com/camenduru/stable-video-diffusion-colab <br />
-🆕 https://github.com/camenduru/SadTalker-colab <br />
-🆕 https://github.com/camenduru/Show-1-colab <br />
-🆕 https://github.com/camenduru/VideoCrafter-colab <br />
-🆕 https://github.com/camenduru/Hotshot-XL-colab <br />
-🆕 https://github.com/camenduru/video-retalking-colab <br />
-🆕 https://github.com/camenduru/ProPainter-colab <br />
+https://github.com/camenduru/SadTalker-colab <br />
+https://github.com/camenduru/Show-1-colab <br />
+https://github.com/camenduru/VideoCrafter-colab <br />
+https://github.com/camenduru/Hotshot-XL-colab <br />
+https://github.com/camenduru/video-retalking-colab <br />
+https://github.com/camenduru/ProPainter-colab <br />
 https://github.com/camenduru/TokenFlow-colab <br />
 https://github.com/camenduru/I2VGen-XL-colab <br />
 https://github.com/camenduru/CoDeF-colab <br />
 https://github.com/camenduru/AnimateDiff-colab <br />
-🆕 https://github.com/camenduru/Rerender-colab <br />
+https://github.com/camenduru/Rerender-colab <br />
 https://github.com/camenduru/3d-photo-inpainting-colab <br />
 https://github.com/camenduru/text2video-zero-colab <br />
-🆕 https://github.com/camenduru/text-to-video-synthesis-colab <br />
+https://github.com/camenduru/text-to-video-synthesis-colab <br />
 https://github.com/camenduru/one-shot-talking-face-colab <br />
 https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
@@ -99,17 +97,17 @@ https://github.com/camenduru/audioldm-colab <br />
 🆕 https://github.com/camenduru/sdxl-turbo-colab <br />
 🆕 https://github.com/camenduru/cross-image-attention-colab <br />
 🆕 https://github.com/camenduru/sliders-colab <br />
-🆕 https://github.com/camenduru/SD-T2I-360PanoImage-colab <br />
-🆕 https://github.com/camenduru/SSD-1B-colab <br />
-🆕 https://github.com/camenduru/latent-consistency-model-colab <br />
-🆕 https://github.com/camenduru/DiffSketcher-colab <br />
-🆕 https://github.com/camenduru/FreeU-colab <br />
-🆕 https://github.com/camenduru/stable-fast-colab <br />
-🆕 https://github.com/camenduru/trainer <br />
-🆕 https://github.com/camenduru/litelama-colab <br />
-🆕 https://github.com/camenduru/background-replacement-colab <br />
-🆕 https://github.com/camenduru/IllusionDiffusion-colab <br />
-🆕 https://github.com/camenduru/Wuerstchen-colab <br />
+https://github.com/camenduru/SD-T2I-360PanoImage-colab <br />
+https://github.com/camenduru/SSD-1B-colab <br />
+https://github.com/camenduru/latent-consistency-model-colab <br />
+https://github.com/camenduru/DiffSketcher-colab <br />
+https://github.com/camenduru/FreeU-colab <br />
+https://github.com/camenduru/stable-fast-colab <br />
+https://github.com/camenduru/trainer <br />
+https://github.com/camenduru/litelama-colab <br />
+https://github.com/camenduru/background-replacement-colab <br />
+https://github.com/camenduru/IllusionDiffusion-colab <br />
+https://github.com/camenduru/Wuerstchen-colab <br />
 https://github.com/camenduru/T2I-Adapter-SDXL-colab <br />
 https://github.com/camenduru/facechain-colab <br />
 https://github.com/camenduru/StableVideo-colab <br />
@@ -131,7 +129,7 @@ https://github.com/camenduru/ControlNet-v1-1-nightly-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 https://github.com/camenduru/kandinsky-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
-🆕 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
+https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
 https://github.com/camenduru/converter-colab <br />
 
 #### 🧨 ppDiffusers
@@ -141,9 +139,9 @@ https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 👀 Vision LLM
 🆕 https://github.com/camenduru/ShareGPT4V-colab <br />
-🆕 https://github.com/camenduru/MiniGPT-v2-colab <br />
-🆕 https://github.com/camenduru/LLaVA-colab <br />
-🆕 https://github.com/camenduru/Qwen-VL-Chat-colab <br />
+https://github.com/camenduru/MiniGPT-v2-colab <br />
+https://github.com/camenduru/LLaVA-colab <br />
+https://github.com/camenduru/Qwen-VL-Chat-colab <br />
 https://github.com/camenduru/kosmos-2-colab <br />
 https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab <br />
@@ -163,8 +161,8 @@ https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎈 ML Papers
 🆕 https://github.com/camenduru/disco-colab <br />
-🆕 https://github.com/camenduru/daclip-uir-colab <br />
-🆕 https://github.com/camenduru/FastSAM-colab <br />
+https://github.com/camenduru/daclip-uir-colab <br />
+https://github.com/camenduru/FastSAM-colab <br />
 https://github.com/camenduru/DiffBIR-colab <br />
 https://github.com/camenduru/inst-inpaint-colab <br />
 https://github.com/camenduru/anime-face-detector-colab <br />
@@ -212,7 +210,7 @@ https://github.com/camenduru/comfyui-colab <br />
 https://github.com/camenduru/InvokeAI-colab <br />
 
 #### 🍭 Fooocus
-🆕 https://github.com/camenduru/Fooocus-docker <br />
+https://github.com/camenduru/Fooocus-docker <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🔋 Lambda Labs Demos
@@ -242,7 +240,7 @@ https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
 🆕 https://github.com/camenduru/stable-video-diffusion-openxlab <br />
-🆕 https://github.com/camenduru/DiffBIR-openxlab <br />
+https://github.com/camenduru/DiffBIR-openxlab <br />
 https://github.com/camenduru/I2VGen-XL-openxlab <br />
 https://github.com/camenduru/DoctorGPT-openxlab <br />
 https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
@@ -259,8 +257,6 @@ https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
 
 #### 🎮 Unity
 https://github.com/camenduru/seamless <br />
-
-#### 🧯 Old Projects 🧯
 
 #### 🏆 Diffusion Awards
 https://github.com/camenduru/DiffusionAwards <br />
