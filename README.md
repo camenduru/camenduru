@@ -46,6 +46,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/dynamiCrafter-colab <br />
 🆕 https://github.com/camenduru/MotionDirector-colab <br />
 🆕 https://github.com/camenduru/SEINE-colab <br />
 🆕 https://github.com/camenduru/LaVie-colab <br />
@@ -250,6 +251,9 @@ https://github.com/camenduru/jupyter-modal <br />
 https://github.com/camenduru/DiffBIR-modal <br />
 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
+
+#### 🕸 Replicate
+https://github.com/camenduru/DynamiCrafter-replicate <br />
 
 #### 🕹 Unreal Engine
 https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
