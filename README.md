@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/OpenLRM-colab <br />
 🆕 https://github.com/camenduru/BEV-colab <br />
 🆕 https://github.com/camenduru/buddi-colab <br />
 🆕 https://github.com/camenduru/HumanGaussian-colab <br />
