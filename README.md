@@ -93,6 +93,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/StreamDiffusion-colab <br />
 🆕 https://github.com/camenduru/UDiffText-colab <br />
 🆕 https://github.com/camenduru/PatchFusion-colab <br />
 🆕 https://github.com/camenduru/Mix-of-Show-colab <br />
