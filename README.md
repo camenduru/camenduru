@@ -49,6 +49,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/LongAnimateDiff-colab <br />
 🆕 https://github.com/camenduru/PIA-colab <br />
 🆕 https://github.com/camenduru/FreeInit-colab <br />
 🆕 https://github.com/camenduru/dynamiCrafter-colab <br />
