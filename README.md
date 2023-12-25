@@ -138,7 +138,6 @@ https://github.com/camenduru/StableStudio-colab <br />
 https://github.com/camenduru/Radiata-colab <br />
 https://github.com/camenduru/DeepFloyd-IF-colab <br />
 https://github.com/camenduru/ControlNet-v1-1-nightly-colab <br />
-https://github.com/camenduru/grounded-segment-anything-colab <br />
 https://github.com/camenduru/kandinsky-colab <br />
 https://github.com/camenduru/stable-diffusion-dreambooth-colab <br />
 https://github.com/camenduru/stable-diffusion-diffusers-colab <br />
@@ -171,12 +170,16 @@ https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
-#### 🎈 ML Papers
+#### 🎫 SAM ML Papers
 🆕 https://github.com/camenduru/EdgeSAM-colab <br />
 🆕 https://github.com/camenduru/SlimSAM-colab <br />
+https://github.com/camenduru/FastSAM-colab <br />
+https://github.com/camenduru/sam-hq-colab <br />
+https://github.com/camenduru/grounded-segment-anything-colab <br />
+
+#### 🎈 ML Papers
 🆕 https://github.com/camenduru/disco-colab <br />
 https://github.com/camenduru/daclip-uir-colab <br />
-https://github.com/camenduru/FastSAM-colab <br />
 https://github.com/camenduru/DiffBIR-colab <br />
 https://github.com/camenduru/inst-inpaint-colab <br />
 https://github.com/camenduru/anime-face-detector-colab <br />
@@ -184,7 +187,6 @@ https://github.com/camenduru/insightface-person-detection-colab <br />
 https://github.com/camenduru/insightface-face-detection-colab <br />
 https://github.com/camenduru/FreeDrag-colab <br />
 https://github.com/camenduru/DragDiffusion-colab <br />
-https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/DragGAN-colab <br />
 https://github.com/camenduru/UserControllableLT-colab <br />
 https://github.com/camenduru/controlnet-colab <br />
