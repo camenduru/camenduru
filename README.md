@@ -172,7 +172,8 @@ https://github.com/camenduru/nvidia-llm-colab <br />
 https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
-#### 🎫 SAM ML Papers
+#### 🎫 Segmentation ML Papers
+🆕 https://github.com/camenduru/OneFormer-colab <br />
 🆕 https://github.com/camenduru/EdgeSAM-colab <br />
 🆕 https://github.com/camenduru/SlimSAM-colab <br />
 https://github.com/camenduru/FastSAM-colab <br />
