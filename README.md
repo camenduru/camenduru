@@ -97,6 +97,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/normal-depth-diffusion-colab <br />
 🆕 https://github.com/camenduru/DiffMorpher-colab <br />
 🆕 https://github.com/camenduru/PASD-colab <br />
 🆕 https://github.com/camenduru/inferencebot <br />
