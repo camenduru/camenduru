@@ -43,7 +43,8 @@ https://github.com/camenduru/PARE-colab <br />
 https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
-#### 📸 NeRF
+#### 📸 NeRF + Gaussian Splatting
+🆕 https://github.com/camenduru/4DGen-colab <br />
 🆕 https://github.com/camenduru/LucidDreamer-Gaussian-colab <br />
 🆕 https://github.com/camenduru/PeRF-colab <br />
 https://github.com/camenduru/4DGaussians-colab <br />
