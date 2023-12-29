@@ -30,6 +30,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/FineMoGen-colab <br />
 🆕 https://github.com/camenduru/SMPLer-X-colab <br />
 🆕 https://github.com/camenduru/MotionDiffuse-colab <br />
 https://github.com/camenduru/NIKI-colab <br />
