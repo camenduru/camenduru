@@ -157,6 +157,7 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 👀 Vision LLM
+🆕 https://github.com/camenduru/ugen-image-captioning-colab  <br />
 🆕 https://github.com/camenduru/ShareGPT4V-colab <br />
 https://github.com/camenduru/MiniGPT-v2-colab <br />
 https://github.com/camenduru/LLaVA-colab <br />
