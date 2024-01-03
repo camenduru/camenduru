@@ -30,6 +30,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/MotionGPT-colab <br />
 🆕 https://github.com/camenduru/insactor-colab <br />
 🆕 https://github.com/camenduru/MoMask-colab <br />
 🆕 https://github.com/camenduru/FineMoGen-colab <br />
