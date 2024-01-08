@@ -109,6 +109,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/HandRefiner-colab <br />
 🆕 https://github.com/camenduru/AnyText-colab <br />
 🆕 https://github.com/camenduru/normal-depth-diffusion-colab <br />
 🆕 https://github.com/camenduru/DiffMorpher-colab <br />
