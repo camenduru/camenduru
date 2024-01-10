@@ -31,6 +31,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/havatar-colab <br />
 🆕 https://github.com/camenduru/PyMAF-X-colab <br />
 🆕 https://github.com/camenduru/STAF-colab <br />
 🆕 https://github.com/camenduru/BEAT-colab <br />
