@@ -112,6 +112,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/Moore-AnimateAnyone-colab <br />
 🆕 https://github.com/camenduru/ccsr-colab <br />
 🆕 https://github.com/camenduru/HandRefiner-colab <br />
 🆕 https://github.com/camenduru/AnyText-colab <br />
