@@ -309,8 +309,8 @@ https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
 #### 🎮 Unity
 https://github.com/camenduru/seamless <br />
 
-#### 💻 Community GPU Cluster
-https://github.com/camenduru/community-gpu-cluster <br />
+#### 💻 Non-Profit GPU Cluster
+https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🏆 Diffusion Awards
 https://github.com/camenduru/DiffusionAwards <br />
