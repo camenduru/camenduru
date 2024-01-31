@@ -114,6 +114,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/InstructIR-jupyter <br />
 🆕 https://github.com/camenduru/InstantID-jupyter <br />
 🆕 https://github.com/camenduru/PhotoMaker-colab <br />
 https://github.com/camenduru/Moore-AnimateAnyone-colab <br />
