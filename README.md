@@ -304,6 +304,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/AnimateLCM-replicate <br />
 🆕 https://github.com/camenduru/MoE-LLaVA-replicate <br />
 🆕 https://github.com/camenduru/one-shot-talking-face-replicate <br />
 https://github.com/camenduru/MotionDirector-replicate <br />
