@@ -210,6 +210,7 @@ https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/bria-rmbg-jupyter <br />
 🆕 https://github.com/camenduru/autocaption-colab <br />
 🆕 https://github.com/camenduru/DDColor-colab <br />
 https://github.com/camenduru/disco-colab <br />
