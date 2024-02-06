@@ -304,7 +304,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
-🆕 https://replicate.com/camenduru/bria-rmbg <br />
+🆕 https://github.com/camenduru/bria-rmbg-replicate <br />
 🆕 https://github.com/camenduru/DynamiCrafter-576x1024-replicate <br />
 🆕 https://github.com/camenduru/AnimateLCM-replicate <br />
 🆕 https://github.com/camenduru/MoE-LLaVA-replicate <br />
