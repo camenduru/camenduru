@@ -94,6 +94,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/metavoice-jupyter <br />
 🆕 https://github.com/camenduru/MAGNeT-colab <br />
 🆕 https://github.com/camenduru/resemble-enhance-colab <br />
 https://github.com/camenduru/OpenVoice-colab <br />
