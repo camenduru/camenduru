@@ -308,6 +308,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/LGM-replicate <br />
 🆕 https://github.com/camenduru/metavoice-replicate <br />
 🆕 https://github.com/camenduru/HandRefiner-replicate <br />
 🆕 https://github.com/camenduru/bria-rmbg-replicate <br />
