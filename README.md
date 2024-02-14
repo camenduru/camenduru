@@ -117,6 +117,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/stable-cascade-jupyter <br />
 🆕 https://github.com/camenduru/ml-mgie-jupyter <br />
 🆕 https://github.com/camenduru/InstructIR-jupyter <br />
 🆕 https://github.com/camenduru/InstantID-jupyter <br />
@@ -309,6 +310,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/stable-cascade-replicate <br />
 🆕 https://github.com/camenduru/ml-mgie-replicate <br />
 🆕 https://github.com/camenduru/LGM-replicate <br />
 🆕 https://github.com/camenduru/metavoice-replicate <br />
