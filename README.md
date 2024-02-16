@@ -34,6 +34,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/MagicDance-jupyter <br />
 🆕 https://github.com/camenduru/havatar-colab <br />
 https://github.com/camenduru/PyMAF-X-colab <br />
 https://github.com/camenduru/STAF-colab <br />
@@ -310,6 +311,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/MagicDance-replicate <br />
 🆕 https://github.com/camenduru/stable-cascade-replicate <br />
 🆕 https://github.com/camenduru/ml-mgie-replicate <br />
 🆕 https://github.com/camenduru/LGM-replicate <br />
