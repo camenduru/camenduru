@@ -55,6 +55,7 @@ https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF + Gaussian Splatting
+🆕 https://github.com/camenduru/ges-splatting-jupyter <br />
 🆕 https://github.com/camenduru/4DGen-colab <br />
 https://github.com/camenduru/LucidDreamer-Gaussian-colab <br />
 https://github.com/camenduru/PeRF-colab <br />
