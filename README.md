@@ -65,6 +65,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/Magic-Me-jupyter <br />
 🆕 https://github.com/camenduru/SketchVideo-jupyter <br />
 🆕 https://github.com/camenduru/FreeNoise-AnimateDiff-colab <br />
 https://github.com/camenduru/dreamtalk-colab <br />
