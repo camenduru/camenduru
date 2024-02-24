@@ -96,6 +96,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/NeMo-ASR-jupyter <br />
 🆕 https://github.com/camenduru/Image2SoundFX-jupyter <br />
 🆕 https://github.com/camenduru/metavoice-jupyter <br />
 🆕 https://github.com/camenduru/MAGNeT-colab <br />
@@ -198,6 +199,7 @@ https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab <br />
 
 #### 🦙 LLM
+🆕 https://github.com/camenduru/nvidia-ngc-jupyter <br />
 https://github.com/camenduru/Qwen-Audio-Chat-colab <br />
 https://github.com/camenduru/Mistral-colab <br />
 https://github.com/camenduru/Llama-2-Onnx-colab <br />
