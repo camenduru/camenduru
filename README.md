@@ -122,6 +122,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/OOTDiffusion-jupyter <br />
 🆕 https://github.com/camenduru/SDXL-Lightning-jupyter <br />
 🆕 https://github.com/camenduru/stable-cascade-jupyter <br />
 🆕 https://github.com/camenduru/ml-mgie-jupyter <br />
