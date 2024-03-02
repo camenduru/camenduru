@@ -97,6 +97,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/ChatMusician-jupyter <br />
 🆕 https://github.com/camenduru/NeMo-ASR-jupyter <br />
 🆕 https://github.com/camenduru/Image2SoundFX-jupyter <br />
 🆕 https://github.com/camenduru/metavoice-jupyter <br />
