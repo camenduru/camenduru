@@ -330,6 +330,7 @@ https://github.com/camenduru/One-2-3-45-modal <br />
 🆕 https://github.com/camenduru/MagicDance-replicate <br />
 🆕 https://github.com/camenduru/stable-cascade-replicate <br />
 🆕 https://github.com/camenduru/ml-mgie-replicate <br />
+🆕 https://github.com/camenduru/LGM-ply-to-glb-replicate <br />
 🆕 https://github.com/camenduru/LGM-replicate <br />
 🆕 https://github.com/camenduru/metavoice-replicate <br />
 🆕 https://github.com/camenduru/HandRefiner-replicate <br />
