@@ -327,6 +327,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/CRM-replicate <br />
 🆕 https://github.com/camenduru/TripoSR-replicate <br />
 🆕 https://github.com/camenduru/DSINE-replicate <br />
 🆕 https://github.com/camenduru/dust3r-replicate <br />
