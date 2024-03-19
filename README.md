@@ -332,23 +332,24 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/APISR-replicate <br />
 🆕 https://github.com/camenduru/VisualStylePrompting-replicate <br />
 🆕 https://github.com/camenduru/CRM-replicate <br />
 🆕 https://github.com/camenduru/TripoSR-replicate <br />
-🆕 https://github.com/camenduru/DSINE-replicate <br />
-🆕 https://github.com/camenduru/dust3r-replicate <br />
-🆕 https://github.com/camenduru/MagicDance-replicate <br />
-🆕 https://github.com/camenduru/stable-cascade-replicate <br />
-🆕 https://github.com/camenduru/ml-mgie-replicate <br />
-🆕 https://github.com/camenduru/LGM-ply-to-glb-replicate <br />
-🆕 https://github.com/camenduru/LGM-replicate <br />
-🆕 https://github.com/camenduru/metavoice-replicate <br />
-🆕 https://github.com/camenduru/HandRefiner-replicate <br />
-🆕 https://github.com/camenduru/bria-rmbg-replicate <br />
-🆕 https://github.com/camenduru/DynamiCrafter-576x1024-replicate <br />
-🆕 https://github.com/camenduru/AnimateLCM-replicate <br />
-🆕 https://github.com/camenduru/MoE-LLaVA-replicate <br />
-🆕 https://github.com/camenduru/one-shot-talking-face-replicate <br />
+https://github.com/camenduru/DSINE-replicate <br />
+https://github.com/camenduru/dust3r-replicate <br />
+https://github.com/camenduru/MagicDance-replicate <br />
+https://github.com/camenduru/stable-cascade-replicate <br />
+https://github.com/camenduru/ml-mgie-replicate <br />
+https://github.com/camenduru/LGM-ply-to-glb-replicate <br />
+https://github.com/camenduru/LGM-replicate <br />
+https://github.com/camenduru/metavoice-replicate <br />
+https://github.com/camenduru/HandRefiner-replicate <br />
+https://github.com/camenduru/bria-rmbg-replicate <br />
+https://github.com/camenduru/DynamiCrafter-576x1024-replicate <br />
+https://github.com/camenduru/AnimateLCM-replicate <br />
+https://github.com/camenduru/MoE-LLaVA-replicate <br />
+https://github.com/camenduru/one-shot-talking-face-replicate <br />
 https://github.com/camenduru/MotionDirector-replicate <br />
 https://github.com/camenduru/DynamiCrafter-replicate <br />
 
