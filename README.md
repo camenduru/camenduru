@@ -129,6 +129,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/SemanticPalette-jupyter <br />
 🆕 https://github.com/camenduru/img2img-turbo-jupyter <br />
 🆕 https://github.com/camenduru/VisualStylePrompting-jupyter <br />
 🆕 https://github.com/camenduru/TCD-jupyter <br />
