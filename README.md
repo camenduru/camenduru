@@ -130,6 +130,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/champ-jupyter <br />
 🆕 https://github.com/camenduru/ReNoise-Inversion-jupyter <br />
 🆕 https://github.com/camenduru/SemanticPalette-jupyter <br />
 🆕 https://github.com/camenduru/img2img-turbo-jupyter <br />
