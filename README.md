@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/GRM-jupyter <br />
 🆕 https://github.com/camenduru/GeoWizard-jupyter <br />
 🆕 https://github.com/camenduru/CRM-jupyter <br />
 🆕 https://github.com/camenduru/TripoSR-jupyter <br />
@@ -340,6 +341,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/GRM-replicate <br />
 🆕 https://github.com/camenduru/AniPortrait-vid2vid-replicate <br />
 🆕 https://github.com/camenduru/GeoWizard-replicate <br />
 🆕 https://github.com/camenduru/champ-replicate <br />
