@@ -341,6 +341,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/attribute-control-replicate <br />
 🆕 https://github.com/camenduru/Arc2Face-replicate <br />
 🆕 https://github.com/camenduru/GRM-replicate <br />
 🆕 https://github.com/camenduru/AniPortrait-vid2vid-replicate <br />
