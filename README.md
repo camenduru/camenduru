@@ -72,6 +72,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/Open-Sora-Plan-jupyter <br />
 🆕 https://github.com/camenduru/AniPortrait-jupyter <br />
 🆕 https://github.com/camenduru/AnimateDiff-Lightning-jupyter <br />
 🆕 https://github.com/camenduru/Open-Sora-jupyter <br />
@@ -341,6 +342,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/Open-Sora-Plan-replicate <br />
 🆕 https://github.com/camenduru/attribute-control-replicate <br />
 🆕 https://github.com/camenduru/Arc2Face-replicate <br />
 🆕 https://github.com/camenduru/GRM-replicate <br />
