@@ -210,6 +210,7 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 👀 Vision LLM
+🆕 https://github.com/camenduru/MiniGPT4-video-jupyter <br />
 🆕 https://github.com/camenduru/MoE-LLaVA-jupyter <br />
 https://github.com/camenduru/ugen-image-captioning-colab  <br />
 https://github.com/camenduru/ShareGPT4V-colab <br />
@@ -342,6 +343,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/MiniGPT4-video-replicate <br />
 🆕 https://github.com/camenduru/Open-Sora-Plan-replicate <br />
 🆕 https://github.com/camenduru/attribute-control-replicate <br />
 🆕 https://github.com/camenduru/Arc2Face-replicate <br />
