@@ -40,6 +40,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/EMAGE-jupyter <br />
 🆕 https://github.com/camenduru/ScoreHMR-jupyter <br />
 🆕 https://github.com/camenduru/MagicDance-jupyter <br />
 🆕 https://github.com/camenduru/havatar-colab <br />
