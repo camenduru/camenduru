@@ -345,6 +345,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/StreamingT2V-replicate <br />
 🆕 https://github.com/camenduru/EMAGE-replicate <br />
 🆕 https://github.com/camenduru/MiniGPT4-video-replicate <br />
 🆕 https://github.com/camenduru/Open-Sora-Plan-replicate <br />
