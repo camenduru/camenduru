@@ -346,6 +346,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-instruct-oh-replicate <br />
 🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-4bit-replicate <br />
 🆕 https://github.com/camenduru/StreamingT2V-replicate <br />
 🆕 https://github.com/camenduru/EMAGE-replicate <br />
