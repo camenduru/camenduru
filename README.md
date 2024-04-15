@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
 🆕 https://github.com/camenduru/GRM-jupyter <br />
 🆕 https://github.com/camenduru/GeoWizard-jupyter <br />
 🆕 https://github.com/camenduru/CRM-jupyter <br />
