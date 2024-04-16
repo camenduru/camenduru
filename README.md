@@ -252,6 +252,7 @@ https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/HairFastGAN-jupyter <br />
 🆕 https://github.com/camenduru/APISR-jupyter <br />
 🆕 https://github.com/camenduru/bria-rmbg-jupyter <br />
 🆕 https://github.com/camenduru/autocaption-colab <br />
@@ -348,6 +349,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
 🆕 https://github.com/camenduru/zest-replicate <br />
 🆕 https://github.com/camenduru/InstantMesh-replicate <br />
 🆕 https://github.com/camenduru/MagicTime-replicate <br />
