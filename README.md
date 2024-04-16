@@ -349,6 +349,7 @@ https://github.com/camenduru/One-2-3-45-modal <br />
 #### 🕸 Replicate
 🆕 https://github.com/camenduru/InstantMesh-replicate <br />
 🆕 https://github.com/camenduru/MagicTime-replicate <br />
+🆕 https://github.com/camenduru/zephyr-orpo-141b-a35b-v0.1-replicate <br />
 🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-instruct-oh-replicate <br />
 🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-4bit-replicate <br />
 🆕 https://github.com/camenduru/StreamingT2V-replicate <br />
