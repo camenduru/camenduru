@@ -137,22 +137,23 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/zest-jupyter <br />
 🆕 https://github.com/camenduru/Perturbed-Attention-Guidance-jupyter <br />
 🆕 https://github.com/camenduru/Arc2Face-jupyter <br />
 🆕 https://github.com/camenduru/champ-jupyter <br />
-🆕 https://github.com/camenduru/ReNoise-Inversion-jupyter <br />
-🆕 https://github.com/camenduru/SemanticPalette-jupyter <br />
-🆕 https://github.com/camenduru/img2img-turbo-jupyter <br />
-🆕 https://github.com/camenduru/VisualStylePrompting-jupyter <br />
-🆕 https://github.com/camenduru/TCD-jupyter <br />
-🆕 https://github.com/camenduru/Multi-LoRA-Composition-jupyter <br />
-🆕 https://github.com/camenduru/OOTDiffusion-jupyter <br />
-🆕 https://github.com/camenduru/SDXL-Lightning-jupyter <br />
-🆕 https://github.com/camenduru/stable-cascade-jupyter <br />
-🆕 https://github.com/camenduru/ml-mgie-jupyter <br />
-🆕 https://github.com/camenduru/InstructIR-jupyter <br />
-🆕 https://github.com/camenduru/InstantID-jupyter <br />
-🆕 https://github.com/camenduru/PhotoMaker-colab <br />
+https://github.com/camenduru/ReNoise-Inversion-jupyter <br />
+https://github.com/camenduru/SemanticPalette-jupyter <br />
+https://github.com/camenduru/img2img-turbo-jupyter <br />
+https://github.com/camenduru/VisualStylePrompting-jupyter <br />
+https://github.com/camenduru/TCD-jupyter <br />
+https://github.com/camenduru/Multi-LoRA-Composition-jupyter <br />
+https://github.com/camenduru/OOTDiffusion-jupyter <br />
+https://github.com/camenduru/SDXL-Lightning-jupyter <br />
+https://github.com/camenduru/stable-cascade-jupyter <br />
+https://github.com/camenduru/ml-mgie-jupyter <br />
+https://github.com/camenduru/InstructIR-jupyter <br />
+https://github.com/camenduru/InstantID-jupyter <br />
+https://github.com/camenduru/PhotoMaker-colab <br />
 https://github.com/camenduru/Moore-AnimateAnyone-colab <br />
 https://github.com/camenduru/ccsr-colab <br />
 https://github.com/camenduru/HandRefiner-colab <br />
@@ -347,25 +348,26 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/zest-replicate <br />
 🆕 https://github.com/camenduru/InstantMesh-replicate <br />
 🆕 https://github.com/camenduru/MagicTime-replicate <br />
 🆕 https://github.com/camenduru/wizardlm-2-8x22b-replicate <br />
 🆕 https://github.com/camenduru/zephyr-orpo-141b-a35b-v0.1-replicate <br />
 🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-instruct-oh-replicate <br />
 🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-4bit-replicate <br />
-🆕 https://github.com/camenduru/StreamingT2V-replicate <br />
-🆕 https://github.com/camenduru/EMAGE-replicate <br />
-🆕 https://github.com/camenduru/MiniGPT4-video-replicate <br />
-🆕 https://github.com/camenduru/Open-Sora-Plan-replicate <br />
-🆕 https://github.com/camenduru/attribute-control-replicate <br />
-🆕 https://github.com/camenduru/Arc2Face-replicate <br />
-🆕 https://github.com/camenduru/GRM-replicate <br />
-🆕 https://github.com/camenduru/AniPortrait-vid2vid-replicate <br />
-🆕 https://github.com/camenduru/GeoWizard-replicate <br />
-🆕 https://github.com/camenduru/champ-replicate <br />
-🆕 https://github.com/camenduru/ReNoise-Inversion-replicate <br />
-🆕 https://github.com/camenduru/open-sora-replicate <br />
-🆕 https://github.com/camenduru/animatediff-lightning-replicate <br />
+https://github.com/camenduru/StreamingT2V-replicate <br />
+https://github.com/camenduru/EMAGE-replicate <br />
+https://github.com/camenduru/MiniGPT4-video-replicate <br />
+https://github.com/camenduru/Open-Sora-Plan-replicate <br />
+https://github.com/camenduru/attribute-control-replicate <br />
+https://github.com/camenduru/Arc2Face-replicate <br />
+https://github.com/camenduru/GRM-replicate <br />
+https://github.com/camenduru/AniPortrait-vid2vid-replicate <br />
+https://github.com/camenduru/GeoWizard-replicate <br />
+https://github.com/camenduru/champ-replicate <br />
+https://github.com/camenduru/ReNoise-Inversion-replicate <br />
+https://github.com/camenduru/open-sora-replicate <br />
+https://github.com/camenduru/animatediff-lightning-replicate <br />
 https://github.com/camenduru/APISR-replicate <br />
 https://github.com/camenduru/DynamiCrafter-interpolation-320x512-replicate <br />
 https://github.com/camenduru/VisualStylePrompting-replicate <br />
