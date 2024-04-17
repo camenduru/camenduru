@@ -137,6 +137,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/HQEdit-jupyter <br />
 🆕 https://github.com/camenduru/zest-jupyter <br />
 🆕 https://github.com/camenduru/Perturbed-Attention-Guidance-jupyter <br />
 🆕 https://github.com/camenduru/Arc2Face-jupyter <br />
