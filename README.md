@@ -350,7 +350,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
-🆕 https://replicate.com/camenduru/colorize-line-art <br />
+🆕 https://github.com/camenduru/colorize-line-art-replicate <br />
 🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
 🆕 https://github.com/camenduru/zest-replicate <br />
 🆕 https://github.com/camenduru/InstantMesh-replicate <br />
