@@ -273,6 +273,7 @@ https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
 #### 📦 Models
+🆕 https://dagshub.com/StyleTTS2/bucilianus-1 <br />
 https://github.com/camenduru/xenmon-xl-model-colab <br />
 https://github.com/camenduru/ios-emoji-xl-model-colab <br />
 https://github.com/camenduru/text-to-video-model <br />
