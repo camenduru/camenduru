@@ -300,6 +300,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI
+🆕 https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍨 InvokeAI
@@ -350,6 +351,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate
+🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-replicate <br />
 🆕 https://github.com/camenduru/colorize-line-art-replicate <br />
 🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
 🆕 https://github.com/camenduru/zest-replicate <br />
