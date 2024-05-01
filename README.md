@@ -2,13 +2,6 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-#### 🧿 Camenduru
-🆕 https://github.com/camenduru/web <br />
-🆕 https://github.com/camenduru/discord <br />
-🆕 https://github.com/camenduru/dispatcher <br />
-🆕 https://github.com/camenduru/sdxl-camenduru <br />
-🆕 https://github.com/camenduru/sdxl-turbo-camenduru <br />
-
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
 🆕 https://github.com/camenduru/GRM-jupyter <br />
@@ -359,7 +352,7 @@ https://github.com/camenduru/DiffBIR-modal <br />
 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
-#### 🕸 Replicate
+#### 🕸 Replicate Demos
 🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-replicate <br />
 🆕 https://github.com/camenduru/colorize-line-art-replicate <br />
 🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
@@ -405,6 +398,13 @@ https://github.com/camenduru/MoE-LLaVA-replicate <br />
 https://github.com/camenduru/one-shot-talking-face-replicate <br />
 https://github.com/camenduru/MotionDirector-replicate <br />
 https://github.com/camenduru/DynamiCrafter-replicate <br />
+
+#### 🧿 Camenduru Demos
+🆕 https://github.com/camenduru/web <br />
+🆕 https://github.com/camenduru/discord <br />
+🆕 https://github.com/camenduru/dispatcher <br />
+🆕 https://github.com/camenduru/sdxl-camenduru <br />
+🆕 https://github.com/camenduru/sdxl-turbo-camenduru <br />
 
 #### 🕹 Unreal Engine
 https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
