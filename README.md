@@ -283,7 +283,7 @@ https://github.com/camenduru/text-to-video-model <br />
 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
-#### 🧿 Web UI
+#### 🍱 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/sdxl-colab <br />
 https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
