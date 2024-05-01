@@ -3,11 +3,11 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🧿 Camenduru
-🆕 https://github.com/camenduru/web
-🆕 https://github.com/camenduru/discord
-🆕 https://github.com/camenduru/dispatcher
-🆕 https://github.com/camenduru/sdxl-camenduru
-🆕 https://github.com/camenduru/sdxl-turbo-camenduru
+🆕 https://github.com/camenduru/web <br />
+🆕 https://github.com/camenduru/discord <br />
+🆕 https://github.com/camenduru/dispatcher <br />
+🆕 https://github.com/camenduru/sdxl-camenduru <br />
+🆕 https://github.com/camenduru/sdxl-turbo-camenduru <br />
 
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
