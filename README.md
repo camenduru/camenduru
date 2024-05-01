@@ -2,6 +2,13 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+#### 🧿 Camenduru
+🆕 https://github.com/camenduru/web
+🆕 https://github.com/camenduru/discord
+🆕 https://github.com/camenduru/dispatcher
+🆕 https://github.com/camenduru/sdxl-camenduru
+🆕 https://github.com/camenduru/sdxl-turbo-camenduru
+
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
 🆕 https://github.com/camenduru/GRM-jupyter <br />
