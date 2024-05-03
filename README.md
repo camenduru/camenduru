@@ -137,6 +137,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/StoryDiffusion-jupyter <br />
 🆕 https://github.com/camenduru/PuLID-jupyter <br />
 🆕 https://github.com/camenduru/IDM-VTON-jupyter <br />
 🆕 https://github.com/camenduru/HQEdit-jupyter <br />
