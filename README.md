@@ -355,6 +355,7 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate Demos
+🆕 https://github.com/camenduru/StoryDiffusion-replicate <br />
 🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-replicate <br />
 🆕 https://github.com/camenduru/colorize-line-art-replicate <br />
 🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
