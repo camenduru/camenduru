@@ -407,6 +407,7 @@ https://github.com/camenduru/DynamiCrafter-replicate <br />
 🆕 https://github.com/camenduru/web <br />
 🆕 https://github.com/camenduru/discord <br />
 🆕 https://github.com/camenduru/dispatcher <br />
+🆕 https://github.com/camenduru/scheduler <br />
 🆕 https://github.com/camenduru/sdxl-camenduru <br />
 🆕 https://github.com/camenduru/sdxl-turbo-camenduru <br />
 
