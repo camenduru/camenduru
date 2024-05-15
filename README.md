@@ -74,6 +74,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/ID-Animator-jupyter <br />
 🆕 https://github.com/camenduru/MagicTime-jupyter <br />
 🆕 https://github.com/camenduru/Open-Sora-Plan-jupyter <br />
 🆕 https://github.com/camenduru/AniPortrait-jupyter <br />
@@ -137,7 +138,6 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
-🆕 https://github.com/camenduru/ID-Animator-jupyter <br />
 🆕 https://github.com/camenduru/HunyuanDiT-jupyter <br />
 🆕 https://github.com/camenduru/IC-Light-jupyter <br />
 🆕 https://github.com/camenduru/StoryDiffusion-jupyter <br />
