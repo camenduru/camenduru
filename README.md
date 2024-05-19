@@ -410,12 +410,12 @@ https://github.com/camenduru/DynamiCrafter-replicate <br />
 🆕 https://github.com/camenduru/discord <br />
 🆕 https://github.com/camenduru/dispatcher <br />
 🆕 https://github.com/camenduru/scheduler <br />
-🆕 https://github.com/camenduru/sdxl-camenduru <br />
-🆕 https://github.com/camenduru/sdxl-turbo-camenduru <br />
 
 #### 🥪 Tost Demos
 🆕 https://github.com/camenduru/ic-light-tost <br />
 🆕 https://github.com/camenduru/magic-time-tost <br />
+🆕 https://github.com/camenduru/sdxl-tost <br />
+🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🕹 Unreal Engine
 https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
