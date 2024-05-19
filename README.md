@@ -288,6 +288,12 @@ https://github.com/camenduru/text-to-video-model <br />
 https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
+#### 🧿 Inference UI
+🆕 https://github.com/camenduru/web <br />
+🆕 https://github.com/camenduru/discord <br />
+🆕 https://github.com/camenduru/dispatcher <br />
+🆕 https://github.com/camenduru/scheduler <br />
+
 #### 🍱 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
 https://github.com/camenduru/sdxl-colab <br />
@@ -316,6 +322,12 @@ https://github.com/camenduru/InvokeAI-colab <br />
 #### 🍭 Fooocus
 https://github.com/camenduru/Fooocus-docker <br />
 https://github.com/camenduru/Fooocus-colab <br />
+
+#### 🥪 Tost Demos
+🆕 https://github.com/camenduru/ic-light-tost <br />
+🆕 https://github.com/camenduru/magic-time-tost <br />
+🆕 https://github.com/camenduru/sdxl-tost <br />
+🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🔋 Lambda Labs Demos
 https://github.com/camenduru/fabric-lambda <br />
@@ -404,18 +416,6 @@ https://github.com/camenduru/MoE-LLaVA-replicate <br />
 https://github.com/camenduru/one-shot-talking-face-replicate <br />
 https://github.com/camenduru/MotionDirector-replicate <br />
 https://github.com/camenduru/DynamiCrafter-replicate <br />
-
-#### 🧿 Camenduru Demos
-🆕 https://github.com/camenduru/web <br />
-🆕 https://github.com/camenduru/discord <br />
-🆕 https://github.com/camenduru/dispatcher <br />
-🆕 https://github.com/camenduru/scheduler <br />
-
-#### 🥪 Tost Demos
-🆕 https://github.com/camenduru/ic-light-tost <br />
-🆕 https://github.com/camenduru/magic-time-tost <br />
-🆕 https://github.com/camenduru/sdxl-tost <br />
-🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🕹 Unreal Engine
 https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint <br />
