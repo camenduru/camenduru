@@ -2,6 +2,14 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+#### 🥪 Tost Demos
+🆕 https://github.com/camenduru/dust3r-tost <br />
+🆕 https://github.com/camenduru/instant-mesh-tost <br />
+🆕 https://github.com/camenduru/ic-light-tost <br />
+🆕 https://github.com/camenduru/magic-time-tost <br />
+🆕 https://github.com/camenduru/sdxl-tost <br />
+🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
+
 #### 🧊 3D ML Papers
 🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
 🆕 https://github.com/camenduru/GRM-jupyter <br />
@@ -322,13 +330,6 @@ https://github.com/camenduru/InvokeAI-colab <br />
 #### 🍭 Fooocus
 https://github.com/camenduru/Fooocus-docker <br />
 https://github.com/camenduru/Fooocus-colab <br />
-
-#### 🥪 Tost Demos
-🆕 https://github.com/camenduru/instant-mesh-tost <br />
-🆕 https://github.com/camenduru/ic-light-tost <br />
-🆕 https://github.com/camenduru/magic-time-tost <br />
-🆕 https://github.com/camenduru/sdxl-tost <br />
-🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🔋 Lambda Labs Demos
 https://github.com/camenduru/fabric-lambda <br />
