@@ -324,6 +324,7 @@ https://github.com/camenduru/Fooocus-docker <br />
 https://github.com/camenduru/Fooocus-colab <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/instant-mesh-tost <br />
 🆕 https://github.com/camenduru/ic-light-tost <br />
 🆕 https://github.com/camenduru/magic-time-tost <br />
 🆕 https://github.com/camenduru/sdxl-tost <br />
