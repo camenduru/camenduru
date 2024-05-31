@@ -4,6 +4,8 @@
 
 #### 🥪 Tost Demos
 🆕 https://github.com/camenduru/toon-crafter-tost <br />
+🆕 https://github.com/camenduru/muse-pose-tost <br />
+🆕 https://github.com/camenduru/dw-pose-tost <br />
 🆕 https://github.com/camenduru/colorize-line-art-tost <br />
 🆕 https://github.com/camenduru/meta-llama-3-8b-instruct-tost <br />
 🆕 https://github.com/camenduru/dust3r-tost <br />
