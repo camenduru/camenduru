@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/toon-crafter-tost <br />
 🆕 https://github.com/camenduru/colorize-line-art-tost <br />
 🆕 https://github.com/camenduru/meta-llama-3-8b-instruct-tost <br />
 🆕 https://github.com/camenduru/dust3r-tost <br />
