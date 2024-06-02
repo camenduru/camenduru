@@ -329,7 +329,8 @@ https://github.com/camenduru/stable-diffusion-webui-scripts <br />
 https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
-#### 🍥 Comfy UI
+#### 🍥 Comfy UI to 🍊 Jupyter
+🆕 https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
 🆕 https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
 
