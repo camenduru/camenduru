@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/stable-audio-tost <br />
 🆕 https://github.com/camenduru/comfyui-instantid-ipadapter-controlnet-facedetailer-tost <br />
 🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-tost <br />
 🆕 https://github.com/camenduru/toon-crafter-tost <br />
@@ -14,7 +15,7 @@
 🆕 https://github.com/camenduru/instant-mesh-tost <br />
 🆕 https://github.com/camenduru/ic-light-tost <br />
 🆕 https://github.com/camenduru/magic-time-tost <br />
-🆕 https://github.com/camenduru/sdxl-tost <br />
+🆕 https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
