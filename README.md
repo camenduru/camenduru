@@ -3,6 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/style-tts-muse-talk-tost <br />
 🆕 https://github.com/camenduru/t2v-turbo-tost <br />
 🆕 https://github.com/camenduru/stable-audio-tost <br />
 🆕 https://github.com/camenduru/comfyui-instantid-ipadapter-controlnet-facedetailer-tost <br />
