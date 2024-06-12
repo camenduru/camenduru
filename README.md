@@ -339,6 +339,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI to 🍊 Jupyter
+🆕 https://github.com/camenduru/SD3-jupyter <br />
 🆕 https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
 🆕 https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
