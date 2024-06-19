@@ -2,6 +2,9 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+#### 💻 Non-Profit GPU Cluster
+🆕 https://github.com/camenduru/non-profit-gpu-cluster <br />
+
 #### 🥪 Tost Demos
 🆕 https://github.com/camenduru/tost-tts <br />
 🆕 https://github.com/camenduru/comfyui-ipadapter-animatediff-tost <br />
@@ -9,31 +12,31 @@
 🆕 https://github.com/camenduru/style-tts-muse-talk-tost <br />
 🆕 https://github.com/camenduru/t2v-turbo-tost <br />
 🆕 https://github.com/camenduru/stable-audio-tost <br />
-🆕 https://github.com/camenduru/comfyui-instantid-ipadapter-controlnet-facedetailer-tost <br />
-🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-tost <br />
-🆕 https://github.com/camenduru/toon-crafter-tost <br />
-🆕 https://github.com/camenduru/muse-pose-tost <br />
-🆕 https://github.com/camenduru/dw-pose-tost <br />
-🆕 https://github.com/camenduru/colorize-line-art-tost <br />
-🆕 https://github.com/camenduru/meta-llama-3-8b-instruct-tost <br />
-🆕 https://github.com/camenduru/dust3r-tost <br />
-🆕 https://github.com/camenduru/instant-mesh-tost <br />
-🆕 https://github.com/camenduru/ic-light-tost <br />
-🆕 https://github.com/camenduru/magic-time-tost <br />
-🆕 https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
-🆕 https://github.com/camenduru/sdxl-turbo-tost <br />
+https://github.com/camenduru/comfyui-instantid-ipadapter-controlnet-facedetailer-tost <br />
+https://github.com/camenduru/comfyui-ipadapter-latentupscale-tost <br />
+https://github.com/camenduru/toon-crafter-tost <br />
+https://github.com/camenduru/muse-pose-tost <br />
+https://github.com/camenduru/dw-pose-tost <br />
+https://github.com/camenduru/colorize-line-art-tost <br />
+https://github.com/camenduru/meta-llama-3-8b-instruct-tost <br />
+https://github.com/camenduru/dust3r-tost <br />
+https://github.com/camenduru/instant-mesh-tost <br />
+https://github.com/camenduru/ic-light-tost <br />
+https://github.com/camenduru/magic-time-tost <br />
+https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
+https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
-🆕 https://github.com/camenduru/InstantMesh-jupyter <br />
-🆕 https://github.com/camenduru/GRM-jupyter <br />
-🆕 https://github.com/camenduru/GeoWizard-jupyter <br />
-🆕 https://github.com/camenduru/CRM-jupyter <br />
-🆕 https://github.com/camenduru/TripoSR-jupyter <br />
-🆕 https://github.com/camenduru/DSINE-jupyter <br />
-🆕 https://github.com/camenduru/dust3r-jupyter <br />
-🆕 https://github.com/camenduru/LGM-jupyter <br />
-🆕 https://github.com/camenduru/3DTopia-jupyter <br />
-🆕 https://github.com/camenduru/Depth-Anything-jupyter <br />
+https://github.com/camenduru/InstantMesh-jupyter <br />
+https://github.com/camenduru/GRM-jupyter <br />
+https://github.com/camenduru/GeoWizard-jupyter <br />
+https://github.com/camenduru/CRM-jupyter <br />
+https://github.com/camenduru/TripoSR-jupyter <br />
+https://github.com/camenduru/DSINE-jupyter <br />
+https://github.com/camenduru/dust3r-jupyter <br />
+https://github.com/camenduru/LGM-jupyter <br />
+https://github.com/camenduru/3DTopia-jupyter <br />
+https://github.com/camenduru/Depth-Anything-jupyter <br />
 https://github.com/camenduru/3DFauna-colab <br />
 https://github.com/camenduru/HarmonyView-colab <br />
 https://github.com/camenduru/OpenLRM-colab <br />
@@ -62,12 +65,12 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
-🆕 https://github.com/camenduru/MuseTalk-jupyter <br />
-🆕 https://github.com/camenduru/MusePose-jupyter <br />
-🆕 https://github.com/camenduru/EMAGE-jupyter <br />
-🆕 https://github.com/camenduru/ScoreHMR-jupyter <br />
-🆕 https://github.com/camenduru/MagicDance-jupyter <br />
-🆕 https://github.com/camenduru/havatar-colab <br />
+https://github.com/camenduru/MuseTalk-jupyter <br />
+https://github.com/camenduru/MusePose-jupyter <br />
+https://github.com/camenduru/EMAGE-jupyter <br />
+https://github.com/camenduru/ScoreHMR-jupyter <br />
+https://github.com/camenduru/MagicDance-jupyter <br />
+https://github.com/camenduru/havatar-colab <br />
 https://github.com/camenduru/PyMAF-X-colab <br />
 https://github.com/camenduru/STAF-colab <br />
 https://github.com/camenduru/BEAT-colab <br />
@@ -87,8 +90,8 @@ https://github.com/camenduru/VIBE-colab <br />
 https://github.com/camenduru/ViTPose-colab <br />
 
 #### 📸 NeRF + Gaussian Splatting
-🆕 https://github.com/camenduru/ges-splatting-jupyter <br />
-🆕 https://github.com/camenduru/4DGen-colab <br />
+https://github.com/camenduru/ges-splatting-jupyter <br />
+https://github.com/camenduru/4DGen-colab <br />
 https://github.com/camenduru/LucidDreamer-Gaussian-colab <br />
 https://github.com/camenduru/PeRF-colab <br />
 https://github.com/camenduru/4DGaussians-colab <br />
@@ -97,18 +100,18 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
-🆕 https://github.com/camenduru/t2v-turbo-jupyter <br />
-🆕 https://github.com/camenduru/V-Express-jupyter <br />
-🆕 https://github.com/camenduru/ToonCrafter-jupyter <br />
-🆕 https://github.com/camenduru/ID-Animator-jupyter <br />
-🆕 https://github.com/camenduru/MagicTime-jupyter <br />
-🆕 https://github.com/camenduru/Open-Sora-Plan-jupyter <br />
-🆕 https://github.com/camenduru/AniPortrait-jupyter <br />
-🆕 https://github.com/camenduru/AnimateDiff-Lightning-jupyter <br />
-🆕 https://github.com/camenduru/Open-Sora-jupyter <br />
-🆕 https://github.com/camenduru/Magic-Me-jupyter <br />
-🆕 https://github.com/camenduru/SketchVideo-jupyter <br />
-🆕 https://github.com/camenduru/FreeNoise-AnimateDiff-colab <br />
+https://github.com/camenduru/t2v-turbo-jupyter <br />
+https://github.com/camenduru/V-Express-jupyter <br />
+https://github.com/camenduru/ToonCrafter-jupyter <br />
+https://github.com/camenduru/ID-Animator-jupyter <br />
+https://github.com/camenduru/MagicTime-jupyter <br />
+https://github.com/camenduru/Open-Sora-Plan-jupyter <br />
+https://github.com/camenduru/AniPortrait-jupyter <br />
+https://github.com/camenduru/AnimateDiff-Lightning-jupyter <br />
+https://github.com/camenduru/Open-Sora-jupyter <br />
+https://github.com/camenduru/Magic-Me-jupyter <br />
+https://github.com/camenduru/SketchVideo-jupyter <br />
+https://github.com/camenduru/FreeNoise-AnimateDiff-colab <br />
 https://github.com/camenduru/dreamtalk-colab <br />
 https://github.com/camenduru/MotionCtrl-colab <br />
 https://github.com/camenduru/LongAnimateDiff-colab <br />
@@ -121,7 +124,7 @@ https://github.com/camenduru/LaVie-colab <br />
 https://github.com/camenduru/stable-video-diffusion-colab <br />
 https://github.com/camenduru/SadTalker-colab <br />
 https://github.com/camenduru/Show-1-colab <br />
-🆕 https://github.com/camenduru/VideoCrafter-colab <br />
+https://github.com/camenduru/VideoCrafter-colab <br />
 https://github.com/camenduru/Hotshot-XL-colab <br />
 https://github.com/camenduru/video-retalking-colab <br />
 https://github.com/camenduru/ProPainter-colab <br />
@@ -138,13 +141,13 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
-🆕 https://github.com/camenduru/stable-audio-jupyter <br />
-🆕 https://github.com/camenduru/ChatMusician-jupyter <br />
-🆕 https://github.com/camenduru/NeMo-ASR-jupyter <br />
-🆕 https://github.com/camenduru/Image2SoundFX-jupyter <br />
-🆕 https://github.com/camenduru/metavoice-jupyter <br />
-🆕 https://github.com/camenduru/MAGNeT-colab <br />
-🆕 https://github.com/camenduru/resemble-enhance-colab <br />
+https://github.com/camenduru/stable-audio-jupyter <br />
+https://github.com/camenduru/ChatMusician-jupyter <br />
+https://github.com/camenduru/NeMo-ASR-jupyter <br />
+https://github.com/camenduru/Image2SoundFX-jupyter <br />
+https://github.com/camenduru/metavoice-jupyter <br />
+https://github.com/camenduru/MAGNeT-colab <br />
+https://github.com/camenduru/resemble-enhance-colab <br />
 https://github.com/camenduru/OpenVoice-colab <br />
 https://github.com/camenduru/singing-voice-conversion-colab <br />
 https://github.com/camenduru/styletts-colab <br />
@@ -165,17 +168,17 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
-🆕 https://github.com/camenduru/Omost-jupyter <br />
-🆕 https://github.com/camenduru/HunyuanDiT-jupyter <br />
-🆕 https://github.com/camenduru/IC-Light-jupyter <br />
-🆕 https://github.com/camenduru/StoryDiffusion-jupyter <br />
-🆕 https://github.com/camenduru/PuLID-jupyter <br />
-🆕 https://github.com/camenduru/IDM-VTON-jupyter <br />
-🆕 https://github.com/camenduru/HQEdit-jupyter <br />
-🆕 https://github.com/camenduru/zest-jupyter <br />
-🆕 https://github.com/camenduru/Perturbed-Attention-Guidance-jupyter <br />
-🆕 https://github.com/camenduru/Arc2Face-jupyter <br />
-🆕 https://github.com/camenduru/champ-jupyter <br />
+https://github.com/camenduru/Omost-jupyter <br />
+https://github.com/camenduru/HunyuanDiT-jupyter <br />
+https://github.com/camenduru/IC-Light-jupyter <br />
+https://github.com/camenduru/StoryDiffusion-jupyter <br />
+https://github.com/camenduru/PuLID-jupyter <br />
+https://github.com/camenduru/IDM-VTON-jupyter <br />
+https://github.com/camenduru/HQEdit-jupyter <br />
+https://github.com/camenduru/zest-jupyter <br />
+https://github.com/camenduru/Perturbed-Attention-Guidance-jupyter <br />
+https://github.com/camenduru/Arc2Face-jupyter <br />
+https://github.com/camenduru/champ-jupyter <br />
 https://github.com/camenduru/ReNoise-Inversion-jupyter <br />
 https://github.com/camenduru/SemanticPalette-jupyter <br />
 https://github.com/camenduru/img2img-turbo-jupyter <br />
@@ -250,8 +253,8 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 👀 Vision LLM
-🆕 https://github.com/camenduru/MiniGPT4-video-jupyter <br />
-🆕 https://github.com/camenduru/MoE-LLaVA-jupyter <br />
+https://github.com/camenduru/MiniGPT4-video-jupyter <br />
+https://github.com/camenduru/MoE-LLaVA-jupyter <br />
 https://github.com/camenduru/ugen-image-captioning-colab  <br />
 https://github.com/camenduru/ShareGPT4V-colab <br />
 https://github.com/camenduru/MiniGPT-v2-colab <br />
@@ -262,7 +265,7 @@ https://github.com/camenduru/Video-LLaMA-colab <br />
 https://github.com/camenduru/MiniGPT-4-colab <br />
 
 #### 🦙 LLM
-🆕 https://github.com/camenduru/nvidia-ngc-jupyter <br />
+https://github.com/camenduru/nvidia-ngc-jupyter <br />
 https://github.com/camenduru/Qwen-Audio-Chat-colab <br />
 https://github.com/camenduru/Mistral-colab <br />
 https://github.com/camenduru/Llama-2-Onnx-colab <br />
@@ -271,14 +274,14 @@ https://github.com/camenduru/DoctorGPT-colab <br />
 https://github.com/camenduru/Replit-v1-CodeInstruct-3B-colab <br />
 https://github.com/camenduru/guanaco-colab <br />
 https://github.com/camenduru/nvidia-llm-colab <br />
-🆕 https://github.com/camenduru/text-generation-webui-colab <br />
+https://github.com/camenduru/text-generation-webui-colab <br />
 https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎫 Segmentation ML Papers
-🆕 https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter <br />
-🆕 https://github.com/camenduru/YOLO-World-jupyter <br />
-🆕 https://github.com/camenduru/EfficientSAM-jupyter <br />
+https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter <br />
+https://github.com/camenduru/YOLO-World-jupyter <br />
+https://github.com/camenduru/EfficientSAM-jupyter <br />
 https://github.com/camenduru/OneFormer-colab <br />
 https://github.com/camenduru/EdgeSAM-colab <br />
 https://github.com/camenduru/SlimSAM-colab <br />
@@ -287,11 +290,11 @@ https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 
 #### 🎈 ML Papers
-🆕 https://github.com/camenduru/HairFastGAN-jupyter <br />
-🆕 https://github.com/camenduru/APISR-jupyter <br />
-🆕 https://github.com/camenduru/bria-rmbg-jupyter <br />
-🆕 https://github.com/camenduru/autocaption-colab <br />
-🆕 https://github.com/camenduru/DDColor-colab <br />
+https://github.com/camenduru/HairFastGAN-jupyter <br />
+https://github.com/camenduru/APISR-jupyter <br />
+https://github.com/camenduru/bria-rmbg-jupyter <br />
+https://github.com/camenduru/autocaption-colab <br />
+https://github.com/camenduru/DDColor-colab <br />
 https://github.com/camenduru/disco-colab <br />
 https://github.com/camenduru/daclip-uir-colab <br />
 https://github.com/camenduru/DiffBIR-colab <br />
@@ -307,7 +310,7 @@ https://github.com/camenduru/controlnet-colab <br />
 https://github.com/camenduru/notebooks <br />
 
 #### 📦 Models
-🆕 https://dagshub.com/StyleTTS2/bucilianus-1 <br />
+https://dagshub.com/StyleTTS2/bucilianus-1 <br />
 https://github.com/camenduru/xenmon-xl-model-colab <br />
 https://github.com/camenduru/ios-emoji-xl-model-colab <br />
 https://github.com/camenduru/text-to-video-model <br />
@@ -317,10 +320,10 @@ https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://github.com/camenduru/train-text-to-image-tpu-tutorial <br />
 
 #### 🧿 Inference UI
-🆕 https://github.com/camenduru/web <br />
-🆕 https://github.com/camenduru/discord <br />
-🆕 https://github.com/camenduru/dispatcher <br />
-🆕 https://github.com/camenduru/scheduler <br />
+https://github.com/camenduru/web <br />
+https://github.com/camenduru/discord <br />
+https://github.com/camenduru/dispatcher <br />
+https://github.com/camenduru/scheduler <br />
 
 #### 🍱 Web UI
 https://github.com/camenduru/stable-diffusion-webui-colab <br />
@@ -341,9 +344,9 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI to 🍊 Jupyter
-🆕 https://github.com/camenduru/SD3-jupyter <br />
-🆕 https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
-🆕 https://github.com/camenduru/IPAdapter-jupyter <br />
+https://github.com/camenduru/SD3-jupyter <br />
+https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
+https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍨 InvokeAI
@@ -379,7 +382,7 @@ https://github.com/camenduru/text-generation-webui-saturncloud <br />
 https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
-🆕 https://github.com/camenduru/PhotoMaker-hf/tree/openxlab <br />
+https://github.com/camenduru/PhotoMaker-hf/tree/openxlab <br />
 https://github.com/camenduru/MotionCtrl-hf/tree/openxlab <br />
 https://github.com/camenduru/stable-video-diffusion-openxlab <br />
 https://github.com/camenduru/DiffBIR-openxlab <br />
@@ -394,18 +397,18 @@ https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://github.com/camenduru/One-2-3-45-modal <br />
 
 #### 🕸 Replicate Demos
-🆕 https://github.com/camenduru/StoryDiffusion-replicate <br />
-🆕 https://github.com/camenduru/comfyui-ipadapter-latentupscale-replicate <br />
-🆕 https://github.com/camenduru/colorize-line-art-replicate <br />
-🆕 https://github.com/camenduru/HairFastGAN-replicate <br />
-🆕 https://github.com/camenduru/zest-replicate <br />
-🆕 https://github.com/camenduru/InstantMesh-replicate <br />
-🆕 https://github.com/camenduru/MagicTime-replicate <br />
-🆕 https://github.com/camenduru/mixtral-8x22b-instruct-v0.1-replicate <br />
-🆕 https://github.com/camenduru/wizardlm-2-8x22b-replicate <br />
-🆕 https://github.com/camenduru/zephyr-orpo-141b-a35b-v0.1-replicate <br />
-🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-instruct-oh-replicate <br />
-🆕 https://github.com/camenduru/mixtral-8x22b-v0.1-4bit-replicate <br />
+https://github.com/camenduru/StoryDiffusion-replicate <br />
+https://github.com/camenduru/comfyui-ipadapter-latentupscale-replicate <br />
+https://github.com/camenduru/colorize-line-art-replicate <br />
+https://github.com/camenduru/HairFastGAN-replicate <br />
+https://github.com/camenduru/zest-replicate <br />
+https://github.com/camenduru/InstantMesh-replicate <br />
+https://github.com/camenduru/MagicTime-replicate <br />
+https://github.com/camenduru/mixtral-8x22b-instruct-v0.1-replicate <br />
+https://github.com/camenduru/wizardlm-2-8x22b-replicate <br />
+https://github.com/camenduru/zephyr-orpo-141b-a35b-v0.1-replicate <br />
+https://github.com/camenduru/mixtral-8x22b-v0.1-instruct-oh-replicate <br />
+https://github.com/camenduru/mixtral-8x22b-v0.1-4bit-replicate <br />
 https://github.com/camenduru/StreamingT2V-replicate <br />
 https://github.com/camenduru/EMAGE-replicate <br />
 https://github.com/camenduru/MiniGPT4-video-replicate <br />
@@ -447,9 +450,6 @@ https://www.unrealengine.com/marketplace/en-US/profile/camenduru <br />
 
 #### 🎮 Unity
 https://github.com/camenduru/seamless <br />
-
-#### 💻 Non-Profit GPU Cluster
-🆕 https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🏆 Diffusion Awards
 https://github.com/camenduru/DiffusionAwards <br />
