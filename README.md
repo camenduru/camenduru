@@ -27,6 +27,7 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/Unique3D-jupyter <br />
 https://github.com/camenduru/InstantMesh-jupyter <br />
 https://github.com/camenduru/GRM-jupyter <br />
 https://github.com/camenduru/GeoWizard-jupyter <br />
@@ -100,6 +101,8 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/hallo-jupyter <br />
+🆕 https://github.com/camenduru/ShareGPT4Video-jupyter <br />
 https://github.com/camenduru/t2v-turbo-jupyter <br />
 https://github.com/camenduru/V-Express-jupyter <br />
 https://github.com/camenduru/ToonCrafter-jupyter <br />
