@@ -102,6 +102,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/ExVideo-jupyter <br />
 🆕 https://github.com/camenduru/Diffutoon-jupyter <br />
 🆕 https://github.com/camenduru/hallo-jupyter <br />
 🆕 https://github.com/camenduru/ShareGPT4Video-jupyter <br />
@@ -296,6 +297,7 @@ https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/EvTexture-jupyter <br />
 https://github.com/camenduru/HairFastGAN-jupyter <br />
 https://github.com/camenduru/APISR-jupyter <br />
 https://github.com/camenduru/bria-rmbg-jupyter <br />
