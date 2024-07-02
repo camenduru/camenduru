@@ -67,6 +67,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/MimicMotion-jupyter <br />
 https://github.com/camenduru/MuseTalk-jupyter <br />
 https://github.com/camenduru/MusePose-jupyter <br />
 https://github.com/camenduru/EMAGE-jupyter <br />
@@ -148,6 +149,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/FoleyCrafter-jupyter <br />
 https://github.com/camenduru/stable-audio-jupyter <br />
 https://github.com/camenduru/ChatMusician-jupyter <br />
 https://github.com/camenduru/NeMo-ASR-jupyter <br />
@@ -178,7 +180,7 @@ https://github.com/camenduru/audioldm-colab <br />
 🆕 https://github.com/camenduru/AutoStudio-jupyter
 🆕 https://github.com/camenduru/Lumina-Next-jupyter <br />
 https://github.com/camenduru/Omost-jupyter <br />
-https://github.com/camenduru/HunyuanDiT-jupyter <br />
+🆕 https://github.com/camenduru/HunyuanDiT-jupyter <br />
 https://github.com/camenduru/IC-Light-jupyter <br />
 https://github.com/camenduru/StoryDiffusion-jupyter <br />
 https://github.com/camenduru/PuLID-jupyter <br />
@@ -354,6 +356,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI to 🍊 Jupyter
+🆕 https://github.com/camenduru/Animefy <br />
 https://github.com/camenduru/SD3-jupyter <br />
 https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
 https://github.com/camenduru/IPAdapter-jupyter <br />
