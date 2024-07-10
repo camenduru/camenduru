@@ -180,6 +180,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/PaintsUndo-jupyter <br />
 🆕 https://github.com/camenduru/Kolors-jupyter <br />
 🆕 https://github.com/camenduru/AutoStudio-jupyter <br />
 🆕 https://github.com/camenduru/Lumina-Next-jupyter <br />
