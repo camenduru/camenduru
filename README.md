@@ -6,6 +6,7 @@
 🆕 https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/open-sora-plan-1.2-tost <br />
 🆕 https://github.com/camenduru/comfyui-ultralytics-upscaler-tost <br />
 🆕 https://github.com/camenduru/kolors-tost <br />
 🆕 https://github.com/camenduru/lumina-next-compositional-tost <br />
