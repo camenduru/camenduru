@@ -371,6 +371,9 @@ https://github.com/camenduru/InstantID-IPAdapter-ControlNet-jupyter <br />
 https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
 
+#### 🍇 RunPod Templates
+🆕 https://github.com/camenduru/flux-runpod <br />
+
 #### 🍨 InvokeAI
 https://github.com/camenduru/InvokeAI-colab <br />
 
