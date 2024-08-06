@@ -32,6 +32,7 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/MeshAnythingV2-jupyter <br />
 🆕 https://github.com/camenduru/Unique3D-jupyter <br />
 https://github.com/camenduru/InstantMesh-jupyter <br />
 https://github.com/camenduru/GRM-jupyter <br />
