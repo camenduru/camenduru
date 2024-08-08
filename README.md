@@ -408,6 +408,7 @@ https://github.com/camenduru/text-generation-webui-saturncloud <br />
 https://github.com/camenduru/comfyui-saturncloud <br />
 
 #### 🥼 Open X Lab Demos
+🆕 https://github.com/camenduru/flux-openxlab <br />
 https://github.com/camenduru/PhotoMaker-hf/tree/openxlab <br />
 https://github.com/camenduru/MotionCtrl-hf/tree/openxlab <br />
 https://github.com/camenduru/stable-video-diffusion-openxlab <br />
