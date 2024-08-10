@@ -374,6 +374,7 @@ https://github.com/camenduru/IPAdapter-jupyter <br />
 https://github.com/camenduru/comfyui-colab <br />
 
 #### 🍇 RunPod Templates
+🆕 https://github.com/camenduru/liveportrait-runpod <br />
 🆕 https://github.com/camenduru/flux-runpod <br />
 
 #### 🍨 InvokeAI
