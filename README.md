@@ -6,6 +6,7 @@
 🆕 https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/live-portrait-i2v-tost <br />
 🆕 https://github.com/camenduru/live-portrait-v2v-tost <br />
 🆕 https://github.com/camenduru/flux.1-dev-tost <br />
 🆕 https://github.com/camenduru/open-sora-plan-1.2-tost <br />
