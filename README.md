@@ -315,6 +315,7 @@ https://github.com/camenduru/sam-hq-colab <br />
 https://github.com/camenduru/grounded-segment-anything-colab <br />
 
 #### 🎈 ML Papers
+🆕 https://github.com/camenduru/BiRefNet-jupyter <br />
 🆕 https://github.com/camenduru/EvTexture-jupyter <br />
 https://github.com/camenduru/HairFastGAN-jupyter <br />
 https://github.com/camenduru/APISR-jupyter <br />
