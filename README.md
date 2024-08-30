@@ -6,6 +6,7 @@
 🆕 https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/joy-caption-tost <br />
 🆕 https://github.com/camenduru/cogvideox-5b-tost <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 🆕 https://github.com/camenduru/onevision-flux.1-dev-tost <br />
