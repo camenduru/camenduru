@@ -280,6 +280,7 @@ https://github.com/camenduru/paddle-converter-colab <br />
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 
 #### 👀 Vision LLM
+🆕 https://github.com/camenduru/Qwen2-VL-jupyter <br />
 🆕 https://github.com/camenduru/joy-caption-jupyter <br />
 🆕 https://github.com/camenduru/LLaVA-OneVision-jupyter <br />
 https://github.com/camenduru/MiniGPT4-video-jupyter <br />
