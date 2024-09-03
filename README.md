@@ -14,6 +14,7 @@
 🆕 https://github.com/camenduru/onevision-flux.1-dev-tost <br />
 🆕 https://github.com/camenduru/live-portrait-i2v-tost <br />
 🆕 https://github.com/camenduru/live-portrait-v2v-tost <br />
+🆕 https://github.com/camenduru/flux.1-dev-lora-tost <br />
 🆕 https://github.com/camenduru/flux.1-dev-tost <br />
 🆕 https://github.com/camenduru/open-sora-plan-1.2-tost <br />
 🆕 https://github.com/camenduru/comfyui-ultralytics-upscaler-tost <br />
