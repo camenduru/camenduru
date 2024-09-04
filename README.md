@@ -166,6 +166,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
+🆕 https://github.com/camenduru/FluxMusic-jupyter <br />
 🆕 https://github.com/camenduru/FoleyCrafter-jupyter <br />
 https://github.com/camenduru/stable-audio-jupyter <br />
 https://github.com/camenduru/ChatMusician-jupyter <br />
