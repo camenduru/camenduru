@@ -29,6 +29,7 @@
 🆕 https://github.com/camenduru/style-tts-muse-talk-tost <br />
 🆕 https://github.com/camenduru/t2v-turbo-tost <br />
 🆕 https://github.com/camenduru/stable-audio-tost <br />
+https://github.com/camenduru/sam2-remove-video-background-tost <br />
 https://github.com/camenduru/comfyui-instantid-ipadapter-controlnet-facedetailer-tost <br />
 https://github.com/camenduru/comfyui-ipadapter-latentupscale-tost <br />
 https://github.com/camenduru/toon-crafter-tost <br />
