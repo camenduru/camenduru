@@ -7,6 +7,7 @@
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/diff-bir-tost <br />
 🆕 https://github.com/camenduru/dd-color-tost <br />
 🆕 https://github.com/camenduru/pulid-flux.1-tost <br />
 🆕 https://github.com/camenduru/flux.1-dev-controlnet-depth-tost <br />
