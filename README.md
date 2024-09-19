@@ -9,6 +9,7 @@
 #### 🥪 Tost Demos
 🆕 https://github.com/camenduru/diff-bir-tost <br />
 🆕 https://github.com/camenduru/dd-color-tost <br />
+🆕 https://github.com/camenduru/sam2-remove-video-background-tost <br />
 🆕 https://github.com/camenduru/pulid-flux.1-tost <br />
 🆕 https://github.com/camenduru/flux.1-dev-controlnet-depth-tost <br />
 🆕 https://github.com/camenduru/qwen2-vl-7b-tost <br />
