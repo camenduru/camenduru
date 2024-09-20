@@ -7,6 +7,7 @@
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/cogvideox-5b-i2v-tost <br />
 🆕 https://github.com/camenduru/diff-bir-tost <br />
 🆕 https://github.com/camenduru/dd-color-tost <br />
 🆕 https://github.com/camenduru/sam2-remove-video-background-tost <br />
