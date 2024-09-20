@@ -204,6 +204,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/diffusion-e2e-ft-jupyter <br />
 🆕 https://github.com/camenduru/Hyper-FLUX-jupyter <br />
 🆕 https://github.com/camenduru/PaintsUndo-jupyter <br />
 🆕 https://github.com/camenduru/Kolors-jupyter <br />
