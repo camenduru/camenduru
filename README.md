@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/outpaint-tost <br />
 🆕 https://github.com/camenduru/marigold-depth-normal-tost <br />
 🆕 https://github.com/camenduru/cogvideox-5b-i2v-tost <br />
 🆕 https://github.com/camenduru/diff-bir-tost <br />
