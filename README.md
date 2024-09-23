@@ -91,6 +91,7 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
+🆕 https://github.com/camenduru/ExAvatar-jupyter <br />
 🆕 https://github.com/camenduru/GVHMR-jupyter <br />
 https://github.com/camenduru/LivePortrait-jupyter <br />
 https://github.com/camenduru/UniAnimate-jupyter <br />
