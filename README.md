@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Demos
+🆕 https://github.com/camenduru/advanced-live-portrait-tost <br />
 🆕 https://github.com/camenduru/outpaint-flux-tost <br />
 🆕 https://github.com/camenduru/zest-tost <br />
 🆕 https://github.com/camenduru/outpaint-tost <br />
@@ -210,6 +211,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/AdvancedLivePortrait-jupyter <br />
 🆕 https://github.com/camenduru/diffusers-image-outpaint-jupyter <br />
 🆕 https://github.com/camenduru/diffusion-e2e-ft-jupyter <br />
 🆕 https://github.com/camenduru/Hyper-FLUX-jupyter <br />
