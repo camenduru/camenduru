@@ -7,20 +7,21 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/mimic-motion-tost <br />
 🆕 https://github.com/camenduru/triposr-tost <br />
 🆕 https://github.com/camenduru/advanced-live-portrait-tost <br />
 🆕 https://github.com/camenduru/outpaint-flux-tost <br />
 🆕 https://github.com/camenduru/zest-tost <br />
 🆕 https://github.com/camenduru/outpaint-tost <br />
 🆕 https://github.com/camenduru/marigold-depth-normal-tost <br />
-🆕 https://github.com/camenduru/cogvideox-5b-i2v-tost <br />
-🆕 https://github.com/camenduru/diff-bir-tost <br />
-🆕 https://github.com/camenduru/dd-color-tost <br />
-🆕 https://github.com/camenduru/sam2-remove-video-background-tost <br />
-🆕 https://github.com/camenduru/pulid-flux.1-tost <br />
-🆕 https://github.com/camenduru/flux.1-dev-controlnet-depth-tost <br />
-🆕 https://github.com/camenduru/qwen2-vl-7b-tost <br />
-🆕 https://github.com/camenduru/train-flux-tost <br />
+https://github.com/camenduru/cogvideox-5b-i2v-tost <br />
+https://github.com/camenduru/diff-bir-tost <br />
+https://github.com/camenduru/dd-color-tost <br />
+https://github.com/camenduru/sam2-remove-video-background-tost <br />
+https://github.com/camenduru/pulid-flux.1-tost <br />
+https://github.com/camenduru/flux.1-dev-controlnet-depth-tost <br />
+https://github.com/camenduru/qwen2-vl-7b-tost <br />
+https://github.com/camenduru/train-flux-tost <br />
 https://github.com/camenduru/birefnet-tost <br />
 https://github.com/camenduru/joy-caption-tost <br />
 https://github.com/camenduru/cogvideox-5b-tost <br />
