@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/depth-flow-tost <br />
 🆕 https://github.com/camenduru/mimic-motion-tost <br />
 🆕 https://github.com/camenduru/triposr-tost <br />
 🆕 https://github.com/camenduru/advanced-live-portrait-tost <br />
