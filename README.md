@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/mochi-1-preview-tost <br />
 🆕 https://github.com/camenduru/vista-dream-tost <br />
 🆕 https://github.com/camenduru/stable-diffusion-3.5-large-tost <br />
 🆕 https://github.com/camenduru/hallo2-tost <br />
