@@ -8,13 +8,13 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 
 #### 🥪 Tost Apps
 🆕 https://github.com/camenduru/omnigen-tost <br />
-🆕 https://github.com/camenduru/idm-vton-tost <br />
-🆕 https://github.com/camenduru/mochi-1-preview-tost <br />
-🆕 https://github.com/camenduru/vista-dream-tost <br />
-🆕 https://github.com/camenduru/stable-diffusion-3.5-large-tost <br />
-🆕 https://github.com/camenduru/hallo2-tost <br />
-🆕 https://github.com/camenduru/ichigo-tost <br />
-🆕 https://github.com/camenduru/inpaint-flux-tost <br />
+https://github.com/camenduru/idm-vton-tost <br />
+https://github.com/camenduru/mochi-1-preview-tost <br />
+https://github.com/camenduru/vista-dream-tost <br />
+https://github.com/camenduru/stable-diffusion-3.5-large-tost <br />
+https://github.com/camenduru/hallo2-tost <br />
+https://github.com/camenduru/ichigo-tost <br />
+https://github.com/camenduru/inpaint-flux-tost <br />
 https://github.com/camenduru/pyramid-flow-i2v-tost <br />
 https://github.com/camenduru/pyramid-flow-t2v-tost <br />
 https://github.com/camenduru/manga-tost <br />
@@ -151,7 +151,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
-🆕 https://github.com/camenduru/TANGO-jupyter <br />
+https://github.com/camenduru/TANGO-jupyter <br />
 https://github.com/camenduru/CogVideoX-5B-jupyter <br />
 https://github.com/camenduru/Video-Infinity-jupyter <br />
 https://github.com/camenduru/ExVideo-jupyter <br />
