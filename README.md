@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/outpaint-flux-fill-tost <br />
 🆕 https://github.com/camenduru/in-context-lora-tost <br />
 🆕 https://github.com/camenduru/text-behind-tost <br />
 🆕 https://github.com/camenduru/instantir-tost <br />
