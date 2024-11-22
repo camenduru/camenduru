@@ -156,6 +156,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/echomimic-jupyter <br />
 https://github.com/camenduru/JoyVASA-jupyter <br />
 https://github.com/camenduru/TANGO-jupyter <br />
 https://github.com/camenduru/CogVideoX-5B-jupyter <br />
