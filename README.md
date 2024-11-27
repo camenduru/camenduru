@@ -240,6 +240,7 @@ https://github.com/camenduru/bark-colab <br />
 https://github.com/camenduru/audioldm-colab <br />
 
 #### 🧨 Diffusers
+🆕 https://github.com/camenduru/ominicontrol-jupyter <br />
 🆕 https://github.com/camenduru/text-behind-jupyter <br />
 https://github.com/camenduru/Meissonic-jupyter <br />
 https://github.com/camenduru/PMRF-jupyter <br />
