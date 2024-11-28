@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/consisid-tost <br />
 🆕 https://github.com/camenduru/ominicontrol-tost <br />
 🆕 https://github.com/camenduru/style-tts-tost <br />
 🆕 https://github.com/camenduru/flux.1-dev-distill-tost <br />
@@ -161,6 +162,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
+🆕 https://github.com/camenduru/ConsisID-jupyter <br />
 🆕 https://github.com/camenduru/echomimic-jupyter <br />
 https://github.com/camenduru/JoyVASA-jupyter <br />
 https://github.com/camenduru/TANGO-jupyter <br />
