@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/hunyuan-video-tost <br />
 🆕 https://github.com/camenduru/sdxl-line-art-style-transfer-tost <br />
 🆕 https://github.com/camenduru/consisid-tost <br />
 🆕 https://github.com/camenduru/ominicontrol-tost <br />
