@@ -7,6 +7,7 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 🆕 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/trellis-tost <br />
 🆕 https://github.com/camenduru/hunyuan-video-tost <br />
 🆕 https://github.com/camenduru/sdxl-line-art-style-transfer-tost <br />
 🆕 https://github.com/camenduru/consisid-tost <br />
@@ -83,6 +84,7 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/TRELLIS-jupyter <br />
 https://github.com/camenduru/MASt3R-jupyter <br />
 https://github.com/camenduru/MeshAnythingV2-jupyter <br />
 https://github.com/camenduru/Unique3D-jupyter <br />
