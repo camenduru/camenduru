@@ -6,6 +6,9 @@
 https://github.com/camenduru/non-profit-gpu-cluster <br />
 https://github.com/camenduru/tost-api-examples <br />
 
+### 🐳 Docker
+https://github.com/camenduru/wan-docker <br />
+
 #### 🥪 Tost Apps
 https://github.com/camenduru/memo-tost <br />
 https://github.com/camenduru/trellis-tost <br />
