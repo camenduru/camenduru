@@ -8,6 +8,7 @@ https://github.com/camenduru/tost-api-examples <br />
 
 #### 🐳 Docker
 🆕 https://github.com/camenduru/hunyuan-video-docker <br />
+🆕 https://github.com/camenduru/ltx-video-docker <br />
 🆕 https://github.com/camenduru/wan-docker <br />
 
 #### 🥪 Tost Apps
