@@ -227,7 +227,8 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
-🆕 https://github.com/camenduru/dia-jupyter <br />
+🆕 https://github.com/camenduru/ACE-Step-jupyter <br />
+https://github.com/camenduru/dia-jupyter <br />
 https://github.com/camenduru/csm-1b-jupyter <br />
 https://github.com/camenduru/DiffRhythm-jupyter <br />
 https://github.com/camenduru/FluxMusic-jupyter <br />
