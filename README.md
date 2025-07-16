@@ -91,6 +91,7 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
+https://github.com/camenduru/PartPacker-jupyter <br />
 https://github.com/camenduru/TRELLIS-jupyter <br />
 https://github.com/camenduru/MASt3R-jupyter <br />
 https://github.com/camenduru/MeshAnythingV2-jupyter <br />
