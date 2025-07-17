@@ -458,6 +458,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI to 🍊 Jupyter
+https://github.com/camenduru/Wan2.1-jupyter <br />
 https://github.com/camenduru/sdxl-line-art-style-transfer-jupyter <br />
 https://github.com/camenduru/flux-jupyter <br />
 https://github.com/camenduru/Animefy <br />
