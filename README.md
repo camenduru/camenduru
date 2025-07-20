@@ -13,6 +13,9 @@ https://github.com/camenduru/tost-api-examples <br />
 🆕 https://github.com/camenduru/wan-docker <br />
 
 #### 🥪 Tost Apps
+https://github.com/camenduru/wan2.1-t2v-tost <br />
+https://github.com/camenduru/wan2.1-i2v-vace-tost <br />
+https://github.com/camenduru/wan2.1-i2v-phantom-tost <br />
 https://github.com/camenduru/memo-tost <br />
 https://github.com/camenduru/trellis-tost <br />
 https://github.com/camenduru/hunyuan-video-tost <br />
