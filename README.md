@@ -7,16 +7,16 @@ https://github.com/camenduru/non-profit-gpu-cluster <br />
 https://github.com/camenduru/tost-api-examples <br />
 
 #### 🐳 Docker
-🆕 https://github.com/camenduru/hunyuan-video-runpod <br />
-🆕 https://github.com/camenduru/hunyuan-video-docker <br />
-🆕 https://github.com/camenduru/ltx-video-docker <br />
-🆕 https://github.com/camenduru/wan-docker <br />
+https://github.com/camenduru/hunyuan-video-runpod <br />
+https://github.com/camenduru/hunyuan-video-docker <br />
+https://github.com/camenduru/ltx-video-docker <br />
+https://github.com/camenduru/wan-docker <br />
 
 #### 🥪 Tost Apps
-https://github.com/camenduru/thinksound-tost <br />
-https://github.com/camenduru/wan2.1-t2v-tost <br />
-https://github.com/camenduru/wan2.1-i2v-vace-tost <br />
-https://github.com/camenduru/wan2.1-i2v-phantom-tost <br />
+🆕 https://github.com/camenduru/thinksound-tost <br />
+🆕 https://github.com/camenduru/wan2.1-t2v-tost <br />
+🆕 https://github.com/camenduru/wan2.1-i2v-vace-tost <br />
+🆕 https://github.com/camenduru/wan2.1-i2v-phantom-tost <br />
 https://github.com/camenduru/memo-tost <br />
 https://github.com/camenduru/trellis-tost <br />
 https://github.com/camenduru/hunyuan-video-tost <br />
@@ -95,8 +95,8 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
-https://github.com/camenduru/PartCrafter-jupyter <br />
-https://github.com/camenduru/PartPacker-jupyter <br />
+🆕 https://github.com/camenduru/PartCrafter-jupyter <br />
+🆕 https://github.com/camenduru/PartPacker-jupyter <br />
 https://github.com/camenduru/TRELLIS-jupyter <br />
 https://github.com/camenduru/MASt3R-jupyter <br />
 https://github.com/camenduru/MeshAnythingV2-jupyter <br />
@@ -180,7 +180,7 @@ https://github.com/camenduru/gaussian-splatting-colab <br />
 https://github.com/camenduru/instant-ngp-colab <br />
 
 #### 📽 Video ML Papers
-https://github.com/camenduru/Float-jupyter <br />
+🆕 https://github.com/camenduru/Float-jupyter <br />
 https://github.com/camenduru/memo-jupyter <br />
 https://github.com/camenduru/hunyuan-video-jupyter <br />
 https://github.com/camenduru/ConsisID-jupyter <br />
@@ -234,7 +234,7 @@ https://github.com/camenduru/wav2lip-colab <br />
 https://github.com/camenduru/pix2pix-video-colab <br />
 
 #### 🎙 Audio ML Papers
-🆕 https://github.com/camenduru/ACE-Step-jupyter <br />
+https://github.com/camenduru/ACE-Step-jupyter <br />
 https://github.com/camenduru/dia-jupyter <br />
 https://github.com/camenduru/csm-1b-jupyter <br />
 https://github.com/camenduru/DiffRhythm-jupyter <br />
@@ -464,7 +464,7 @@ https://github.com/camenduru/ai-creator-archive <br />
 https://github.com/camenduru/aica <br />
 
 #### 🍥 Comfy UI to 🍊 Jupyter
-https://github.com/camenduru/Wan2.1-jupyter <br />
+🆕 https://github.com/camenduru/Wan2.1-jupyter <br />
 https://github.com/camenduru/sdxl-line-art-style-transfer-jupyter <br />
 https://github.com/camenduru/flux-jupyter <br />
 https://github.com/camenduru/Animefy <br />
