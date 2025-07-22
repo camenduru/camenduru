@@ -396,6 +396,7 @@ https://github.com/camenduru/gpt4all-colab <br />
 https://github.com/camenduru/alpaca-lora-colab <br />
 
 #### 🎫 Segmentation ML Papers
+🆕 https://github.com/camenduru/ObjectClear-jupyter <br />
 https://github.com/camenduru/evf-sam2-jupyter <br />
 https://github.com/camenduru/sam2-remove-video-background-jupyter <br />
 https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter <br />
