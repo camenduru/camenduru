@@ -13,6 +13,7 @@ https://github.com/camenduru/ltx-video-docker <br />
 https://github.com/camenduru/wan-docker <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/curve-creator-tost <br />
 🆕 https://github.com/camenduru/PartCrafter-tost <br />
 🆕 https://github.com/camenduru/thinksound-tost <br />
 🆕 https://github.com/camenduru/wan2.1-t2v-tost <br />
