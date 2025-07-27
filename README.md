@@ -97,6 +97,8 @@ https://github.com/camenduru/sdxl-cyberrealistic-tost <br />
 https://github.com/camenduru/sdxl-turbo-tost <br />
 
 #### 🧊 3D ML Papers
+🆕 https://github.com/camenduru/HunyuanWorld-1.0-jupyter <br />
+🆕 https://github.com/camenduru/Hunyuan3D-2.1-jupyter <br />
 🆕 https://github.com/camenduru/PartCrafter-jupyter <br />
 🆕 https://github.com/camenduru/PartPacker-jupyter <br />
 https://github.com/camenduru/TRELLIS-jupyter <br />
@@ -141,7 +143,6 @@ https://github.com/camenduru/ECON-colab <br />
 https://github.com/camenduru/shap-e-colab <br />
 
 #### 💃 3D Motion Papers
-https://github.com/camenduru/HunyuanWorld-1.0-jupyter <br />
 https://github.com/camenduru/StableAnimator-jupyter  <br />
 https://github.com/camenduru/ExAvatar-jupyter <br />
 https://github.com/camenduru/GVHMR-jupyter <br />
