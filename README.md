@@ -13,6 +13,7 @@ https://github.com/camenduru/ltx-video-docker <br />
 https://github.com/camenduru/wan-docker <br />
 
 #### 🥪 Tost Apps
+🆕 https://github.com/camenduru/flux-krea-blaze-wan2.2-t2v-rapid-tost <br />
 🆕 https://github.com/camenduru/wan2.2-i2v-rapid-tost <br />
 🆕 https://github.com/camenduru/wan2.2-t2v-tost <br />
 🆕 https://github.com/camenduru/curve-creator-tost <br />
