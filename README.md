@@ -1,10 +1,15 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🐣 Please follow me for new updates https://x.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
+🥳 Please become my sponsor https://github.com/sponsors/camenduru <br />
 
 #### 💻 Non-Profit GPU Cluster
 https://github.com/camenduru/non-profit-gpu-cluster <br />
 https://github.com/camenduru/tost-api-examples <br />
+
+#### 🍞 Tost UI 🐳 Docker
+https://github.com/camenduru/qwen-image-edit-2509-docker <br />
+https://github.com/camenduru/z-image-turbo-seedvr2-docker <br />
+https://github.com/camenduru/wan2-2-i2v-docker <br />
 
 #### 🐳 Docker
 https://github.com/camenduru/hunyuan-video-runpod <br />
