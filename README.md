@@ -14,4 +14,4 @@ https://github.com/camenduru/Z-Image-jupyter <br />
 
 
 #### 🕰️ Projects from 2022 to 2025
-https://github.com/camenduru/camenduru/2022-2025.md <br />
+https://github.com/camenduru/camenduru/blob/main/2022-2025.md <br />
