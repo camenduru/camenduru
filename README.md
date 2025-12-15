@@ -9,7 +9,7 @@ https://github.com/camenduru/z-image-turbo-seedvr2-docker <br />
 https://github.com/camenduru/wan2-2-i2v-docker <br />
 
 
-#### 🍥 Comfy UI to 🍊 Jupyter
+#### 🍊 Jupyter
 https://github.com/camenduru/Z-Image-jupyter <br />
 
 
