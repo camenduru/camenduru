@@ -4,10 +4,10 @@
 
 #### 🍞 Tost UI 🐳 Docker
 https://github.com/camenduru/TostUI <br />
-https://github.com/camenduru/qwen-image-edit-2509-docker <br />
-https://github.com/camenduru/z-image-turbo-seedvr2-docker <br />
-https://github.com/camenduru/wan2-2-i2v-docker <br />
-https://github.com/camenduru/z-image-turbo-4bit-docker <br />
+https://github.com/camenduru/TostUI-qwen-image-edit-2509-docker <br />
+https://github.com/camenduru/TostUI-z-image-turbo-seedvr2-docker <br />
+https://github.com/camenduru/TostUI-wan2-2-i2v-docker <br />
+https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker <br />
 
 #### 🍊 Jupyter
 https://github.com/camenduru/Z-Image-jupyter <br />
