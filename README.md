@@ -11,6 +11,9 @@ https://github.com/camenduru/TostUI-z-image-turbo-seedvr2-docker <br />
 https://github.com/camenduru/TostUI-wan2-2-i2v-docker <br />
 https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker <br />
 
+#### 🍞 Tost Engine
+https://github.com/camenduru/TostEngine-vulkan-glb-viewer-standalone <br />
+
 #### 🍊 Jupyter
 https://github.com/camenduru/Z-Image-jupyter <br />
 https://github.com/camenduru/flux-jupyter <br />
