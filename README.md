@@ -16,5 +16,5 @@ https://github.com/camenduru/TostUI-s3-media-viewer-standalone <br />
 https://github.com/camenduru/TostEngine-vulkan-live-shader-editor-standalone <br />
 https://github.com/camenduru/TostEngine-vulkan-glb-viewer-standalone <br />
 
-#### 🕰️ Projects from 2022 to 2025
+#### 🧊 Projects from 2022 to 2025
 https://github.com/camenduru/camenduru/blob/main/2022-2025.md <br />
