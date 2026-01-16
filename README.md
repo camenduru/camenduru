@@ -13,6 +13,7 @@ https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker <br />
 https://github.com/camenduru/TostUI-s3-media-viewer-standalone <br />
 
 #### 🍞 Tost Engine
+https://github.com/camenduru/TostEngine-juce-pocket-sampler <br />
 https://github.com/camenduru/TostEngine-trellis2-unrealengine-plugin <br />
 https://github.com/camenduru/TostEngine-cinder-bullethell <br />
 https://github.com/camenduru/TostEngine-cinder-tetrisgame <br />
