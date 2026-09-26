@@ -12,6 +12,7 @@ https://github.com/camenduru/TostUI-wan2-2-i2v-docker <br />
 https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker <br />
 https://github.com/camenduru/TostUI-s3-media-viewer-standalone <br />
 https://github.com/camenduru/TostUI-webhook-standalone <br />
+https://github.com/camenduru/TostUI-tost-sprite-video-docker <br />
 
 #### 🍞 Tost Engine
 https://github.com/camenduru/TostEngine-juce-pocket-sampler <br />
@@ -22,6 +23,7 @@ https://github.com/camenduru/TostEngine-cinder-snakegame <br />
 https://github.com/camenduru/TostEngine-vulkan-gamepad-visualizer-standalone <br />
 https://github.com/camenduru/TostEngine-vulkan-live-shader-editor-standalone <br />
 https://github.com/camenduru/TostEngine-vulkan-glb-viewer-standalone <br />
+https://github.com/camenduru/TostAI-Sprite-Sheet-Studio <br />
 
 #### 📚 Study
 https://github.com/camenduru/klein.c <br />
