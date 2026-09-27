@@ -17,6 +17,7 @@ https://github.com/camenduru/TostUI-tost-sprite-video-docker <br />
 #### 🍞 Tost Game Studio
 https://github.com/camenduru/TostAI-Sprite-Sheet-Studio <br />
 https://github.com/camenduru/TostAI-Voice-Studio <br />
+https://github.com/camenduru/TostAI-Sound-Effect-Studio <br />
 
 #### 🍞 Tost Engine
 https://github.com/camenduru/TostEngine-juce-pocket-sampler <br />
