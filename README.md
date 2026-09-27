@@ -14,7 +14,7 @@ https://github.com/camenduru/TostUI-s3-media-viewer-standalone <br />
 https://github.com/camenduru/TostUI-webhook-standalone <br />
 https://github.com/camenduru/TostUI-tost-sprite-video-docker <br />
 
-#### 🍞 Tost Game Studio
+#### 🍞 Tost Studio
 https://github.com/camenduru/TostAI-Sprite-Sheet-Studio <br />
 https://github.com/camenduru/TostAI-Voice-Studio <br />
 https://github.com/camenduru/TostAI-Sound-Effect-Studio <br />
